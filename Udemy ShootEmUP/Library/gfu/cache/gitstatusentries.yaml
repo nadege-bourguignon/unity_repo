@@ -1,0 +1,2791 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: bb0f8bce6cf1f134084ddba3a243f58f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 5
+  lastUpdatedAtString: 2018-04-26T17:47:07.0149057+02:00
+  initializedAtString: 2018-04-26T17:22:53.1331849+02:00
+  entries:
+  - path: Udemy ShootEmUP\.vs\Udemy ShootEmUP\v15\.suo
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\.vs\Udemy ShootEmUP\v15\.suo
+    projectPath: .vs\Udemy ShootEmUP\v15\.suo
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\.vs\Udemy ShootEmUP\v15\Server\sqlite3\db.lock
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\.vs\Udemy ShootEmUP\v15\Server\sqlite3\db.lock
+    projectPath: .vs\Udemy ShootEmUP\v15\Server\sqlite3\db.lock
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\.vs\Udemy ShootEmUP\v15\Server\sqlite3\storage.ide
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\.vs\Udemy ShootEmUP\v15\Server\sqlite3\storage.ide
+    projectPath: .vs\Udemy ShootEmUP\v15\Server\sqlite3\storage.ide
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\.vs\Udemy ShootEmUP\v15\Server\sqlite3\storage.ide-shm
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\.vs\Udemy ShootEmUP\v15\Server\sqlite3\storage.ide-shm
+    projectPath: .vs\Udemy ShootEmUP\v15\Server\sqlite3\storage.ide-shm
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\.vs\Udemy ShootEmUP\v15\Server\sqlite3\storage.ide-wal
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\.vs\Udemy ShootEmUP\v15\Server\sqlite3\storage.ide-wal
+    projectPath: .vs\Udemy ShootEmUP\v15\Server\sqlite3\storage.ide-wal
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\assetDatabase3
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\expandedItems
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\00000000000000001000000000000000
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\00000000000000001000000000000000
+    projectPath: Library\metadata\00\00000000000000001000000000000000
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\00000000000000001000000000000000.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\00000000000000001000000000000000.info
+    projectPath: Library\metadata\00\00000000000000001000000000000000.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\00000000000000002000000000000000
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\00000000000000002000000000000000
+    projectPath: Library\metadata\00\00000000000000002000000000000000
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\00000000000000002000000000000000.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\00000000000000002000000000000000.info
+    projectPath: Library\metadata\00\00000000000000002000000000000000.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\00000000000000003000000000000000
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\00000000000000003000000000000000
+    projectPath: Library\metadata\00\00000000000000003000000000000000
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\00000000000000003000000000000000.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\00000000000000003000000000000000.info
+    projectPath: Library\metadata\00\00000000000000003000000000000000.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\00000000000000004000000000000000
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\00000000000000004000000000000000
+    projectPath: Library\metadata\00\00000000000000004000000000000000
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\00000000000000004000000000000000.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\00000000000000004000000000000000.info
+    projectPath: Library\metadata\00\00000000000000004000000000000000.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\00000000000000004100000000000000
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\00000000000000004100000000000000
+    projectPath: Library\metadata\00\00000000000000004100000000000000
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\00000000000000004100000000000000.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\00000000000000004100000000000000.info
+    projectPath: Library\metadata\00\00000000000000004100000000000000.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\00000000000000005000000000000000
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\00000000000000005000000000000000
+    projectPath: Library\metadata\00\00000000000000005000000000000000
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\00000000000000005000000000000000.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\00000000000000005000000000000000.info
+    projectPath: Library\metadata\00\00000000000000005000000000000000.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\00000000000000005100000000000000
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\00000000000000005100000000000000
+    projectPath: Library\metadata\00\00000000000000005100000000000000
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\00000000000000005100000000000000.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\00000000000000005100000000000000.info
+    projectPath: Library\metadata\00\00000000000000005100000000000000.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\00000000000000006000000000000000
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\00000000000000006000000000000000
+    projectPath: Library\metadata\00\00000000000000006000000000000000
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\00000000000000006000000000000000.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\00000000000000006000000000000000.info
+    projectPath: Library\metadata\00\00000000000000006000000000000000.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\00000000000000006100000000000000
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\00000000000000006100000000000000
+    projectPath: Library\metadata\00\00000000000000006100000000000000
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\00000000000000006100000000000000.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\00000000000000006100000000000000.info
+    projectPath: Library\metadata\00\00000000000000006100000000000000.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\00000000000000007000000000000000
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\00000000000000007000000000000000
+    projectPath: Library\metadata\00\00000000000000007000000000000000
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\00000000000000007000000000000000.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\00000000000000007000000000000000.info
+    projectPath: Library\metadata\00\00000000000000007000000000000000.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\00000000000000007100000000000000
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\00000000000000007100000000000000
+    projectPath: Library\metadata\00\00000000000000007100000000000000
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\00000000000000007100000000000000.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\00000000000000007100000000000000.info
+    projectPath: Library\metadata\00\00000000000000007100000000000000.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\00000000000000008000000000000000
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\00000000000000008000000000000000
+    projectPath: Library\metadata\00\00000000000000008000000000000000
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\00000000000000008000000000000000.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\00000000000000008000000000000000.info
+    projectPath: Library\metadata\00\00000000000000008000000000000000.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\00000000000000009000000000000000
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\00000000000000009000000000000000
+    projectPath: Library\metadata\00\00000000000000009000000000000000
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\00000000000000009000000000000000.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\00000000000000009000000000000000.info
+    projectPath: Library\metadata\00\00000000000000009000000000000000.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\0000000000000000a000000000000000
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\0000000000000000a000000000000000
+    projectPath: Library\metadata\00\0000000000000000a000000000000000
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\0000000000000000a000000000000000.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\0000000000000000a000000000000000.info
+    projectPath: Library\metadata\00\0000000000000000a000000000000000.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\0000000000000000a100000000000000
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\0000000000000000a100000000000000
+    projectPath: Library\metadata\00\0000000000000000a100000000000000
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\0000000000000000a100000000000000.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\0000000000000000a100000000000000.info
+    projectPath: Library\metadata\00\0000000000000000a100000000000000.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\0000000000000000b000000000000000
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\0000000000000000b000000000000000
+    projectPath: Library\metadata\00\0000000000000000b000000000000000
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\0000000000000000b000000000000000.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\0000000000000000b000000000000000.info
+    projectPath: Library\metadata\00\0000000000000000b000000000000000.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\0000000000000000c000000000000000
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\0000000000000000c000000000000000
+    projectPath: Library\metadata\00\0000000000000000c000000000000000
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\00\0000000000000000c000000000000000.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\00\0000000000000000c000000000000000.info
+    projectPath: Library\metadata\00\0000000000000000c000000000000000.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    projectPath: Library\metadata\01\0188ec438976e5849b40a2c1ce5f20f9.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\08\0899380e2624bef478e75cdddc4bdfd8
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\08\0899380e2624bef478e75cdddc4bdfd8
+    projectPath: Library\metadata\08\0899380e2624bef478e75cdddc4bdfd8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\08\0899380e2624bef478e75cdddc4bdfd8.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\08\0899380e2624bef478e75cdddc4bdfd8.info
+    projectPath: Library\metadata\08\0899380e2624bef478e75cdddc4bdfd8.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\08\08a161d441fc1f24783bbe9fe742b9ee
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\08\08a161d441fc1f24783bbe9fe742b9ee
+    projectPath: Library\metadata\08\08a161d441fc1f24783bbe9fe742b9ee
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\08\08a161d441fc1f24783bbe9fe742b9ee.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\08\08a161d441fc1f24783bbe9fe742b9ee.info
+    projectPath: Library\metadata\08\08a161d441fc1f24783bbe9fe742b9ee.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\0c\0cb47041962988943aab64c662c378c0
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\0c\0cb47041962988943aab64c662c378c0
+    projectPath: Library\metadata\0c\0cb47041962988943aab64c662c378c0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\0c\0cb47041962988943aab64c662c378c0.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\0c\0cb47041962988943aab64c662c378c0.info
+    projectPath: Library\metadata\0c\0cb47041962988943aab64c662c378c0.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\0d\0d3bb855445e36e479c85976fc88383a
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\0d\0d3bb855445e36e479c85976fc88383a
+    projectPath: Library\metadata\0d\0d3bb855445e36e479c85976fc88383a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\0d\0d3bb855445e36e479c85976fc88383a.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\0d\0d3bb855445e36e479c85976fc88383a.info
+    projectPath: Library\metadata\0d\0d3bb855445e36e479c85976fc88383a.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\12\12d4d0413e97f6e49a0592ba56066207
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\12\12d4d0413e97f6e49a0592ba56066207
+    projectPath: Library\metadata\12\12d4d0413e97f6e49a0592ba56066207
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\12\12d4d0413e97f6e49a0592ba56066207.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\12\12d4d0413e97f6e49a0592ba56066207.info
+    projectPath: Library\metadata\12\12d4d0413e97f6e49a0592ba56066207.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333
+    projectPath: Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333.info
+    projectPath: Library\metadata\12\12fd8a0055b84bb59e84c9835a37e333.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\13\136dc24f151211d438acee17aff4e934
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    projectPath: Library\metadata\13\136dc24f151211d438acee17aff4e934.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\13\13b3a88b6549d4f47b97576ebb9c3170
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\13\13b3a88b6549d4f47b97576ebb9c3170
+    projectPath: Library\metadata\13\13b3a88b6549d4f47b97576ebb9c3170
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\13\13b3a88b6549d4f47b97576ebb9c3170.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\13\13b3a88b6549d4f47b97576ebb9c3170.info
+    projectPath: Library\metadata\13\13b3a88b6549d4f47b97576ebb9c3170.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\14\1404afef655b1ce49bfa0ef83799bf50
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\14\1404afef655b1ce49bfa0ef83799bf50
+    projectPath: Library\metadata\14\1404afef655b1ce49bfa0ef83799bf50
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\14\1404afef655b1ce49bfa0ef83799bf50.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\14\1404afef655b1ce49bfa0ef83799bf50.info
+    projectPath: Library\metadata\14\1404afef655b1ce49bfa0ef83799bf50.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    projectPath: Library\metadata\15\151a1d946b98deb4b98445400983ba92.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    projectPath: Library\metadata\15\15ca2bebf173f2d4484686a03a45b56d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\16\16199e9ddfb7c024f9837f6a04e956ac
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\16\16199e9ddfb7c024f9837f6a04e956ac
+    projectPath: Library\metadata\16\16199e9ddfb7c024f9837f6a04e956ac
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\16\16199e9ddfb7c024f9837f6a04e956ac.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\16\16199e9ddfb7c024f9837f6a04e956ac.info
+    projectPath: Library\metadata\16\16199e9ddfb7c024f9837f6a04e956ac.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4
+    projectPath: Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4.info
+    projectPath: Library\metadata\1b\1bf89c9fbca28724a8d8fbcf427c47f4.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77
+    projectPath: Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77.info
+    projectPath: Library\metadata\1c\1c6d1fbb51834b64847b1b73a75bfc77.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\1d\1d7c8d2a98e816f47849daa3542043e1
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\1d\1d7c8d2a98e816f47849daa3542043e1
+    projectPath: Library\metadata\1d\1d7c8d2a98e816f47849daa3542043e1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\1d\1d7c8d2a98e816f47849daa3542043e1.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\1d\1d7c8d2a98e816f47849daa3542043e1.info
+    projectPath: Library\metadata\1d\1d7c8d2a98e816f47849daa3542043e1.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\1d\1def4200aa0592d4da57c52d48dc069f
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\1d\1def4200aa0592d4da57c52d48dc069f
+    projectPath: Library\metadata\1d\1def4200aa0592d4da57c52d48dc069f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\1d\1def4200aa0592d4da57c52d48dc069f.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\1d\1def4200aa0592d4da57c52d48dc069f.info
+    projectPath: Library\metadata\1d\1def4200aa0592d4da57c52d48dc069f.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\1f\1f9e8ee5a58f4c649a0fac72e49010b0
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\1f\1f9e8ee5a58f4c649a0fac72e49010b0
+    projectPath: Library\metadata\1f\1f9e8ee5a58f4c649a0fac72e49010b0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\1f\1f9e8ee5a58f4c649a0fac72e49010b0.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\1f\1f9e8ee5a58f4c649a0fac72e49010b0.info
+    projectPath: Library\metadata\1f\1f9e8ee5a58f4c649a0fac72e49010b0.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\20\2003f6b691da40f40a7d9d0bf181383d
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\20\2003f6b691da40f40a7d9d0bf181383d
+    projectPath: Library\metadata\20\2003f6b691da40f40a7d9d0bf181383d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\20\2003f6b691da40f40a7d9d0bf181383d.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\20\2003f6b691da40f40a7d9d0bf181383d.info
+    projectPath: Library\metadata\20\2003f6b691da40f40a7d9d0bf181383d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    projectPath: Library\metadata\21\21206c65839f84d0e9ae14bc1fdc68db.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
+    projectPath: Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1.info
+    projectPath: Library\metadata\21\21eff446d50eaf44a85985cd4c0b6fa1.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\23\23c8bee69b591054094d32918f98facd
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\23\23c8bee69b591054094d32918f98facd
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    projectPath: Library\metadata\23\23c8bee69b591054094d32918f98facd.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\24\240f21b8596480443a24fc39805ca2bc
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\24\240f21b8596480443a24fc39805ca2bc
+    projectPath: Library\metadata\24\240f21b8596480443a24fc39805ca2bc
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\24\240f21b8596480443a24fc39805ca2bc.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\24\240f21b8596480443a24fc39805ca2bc.info
+    projectPath: Library\metadata\24\240f21b8596480443a24fc39805ca2bc.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\26\2608bab044382434f833356348dc4b6a
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\26\2608bab044382434f833356348dc4b6a
+    projectPath: Library\metadata\26\2608bab044382434f833356348dc4b6a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\26\2608bab044382434f833356348dc4b6a.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\26\2608bab044382434f833356348dc4b6a.info
+    projectPath: Library\metadata\26\2608bab044382434f833356348dc4b6a.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\26\2682a692a2be7e14e901a738c7806da0
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\26\2682a692a2be7e14e901a738c7806da0
+    projectPath: Library\metadata\26\2682a692a2be7e14e901a738c7806da0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\26\2682a692a2be7e14e901a738c7806da0.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\26\2682a692a2be7e14e901a738c7806da0.info
+    projectPath: Library\metadata\26\2682a692a2be7e14e901a738c7806da0.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\26\2682bf8aee670b94084383a82360beca
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\26\2682bf8aee670b94084383a82360beca
+    projectPath: Library\metadata\26\2682bf8aee670b94084383a82360beca
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\26\2682bf8aee670b94084383a82360beca.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\26\2682bf8aee670b94084383a82360beca.info
+    projectPath: Library\metadata\26\2682bf8aee670b94084383a82360beca.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\2a\2a6470de9112617458efaa30368193b5
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\2a\2a6470de9112617458efaa30368193b5
+    projectPath: Library\metadata\2a\2a6470de9112617458efaa30368193b5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\2a\2a6470de9112617458efaa30368193b5.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\2a\2a6470de9112617458efaa30368193b5.info
+    projectPath: Library\metadata\2a\2a6470de9112617458efaa30368193b5.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\2a\2af0155a9b392c44ab115f9d4eea9191
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\2a\2af0155a9b392c44ab115f9d4eea9191
+    projectPath: Library\metadata\2a\2af0155a9b392c44ab115f9d4eea9191
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\2a\2af0155a9b392c44ab115f9d4eea9191.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\2a\2af0155a9b392c44ab115f9d4eea9191.info
+    projectPath: Library\metadata\2a\2af0155a9b392c44ab115f9d4eea9191.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5
+    projectPath: Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5.info
+    projectPath: Library\metadata\2f\2fe3476eabbbb6c448e6b55a2cc471f5.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\2f\2fef73e60e5ca3b499c639071880cd72
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\2f\2fef73e60e5ca3b499c639071880cd72
+    projectPath: Library\metadata\2f\2fef73e60e5ca3b499c639071880cd72
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\2f\2fef73e60e5ca3b499c639071880cd72.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\2f\2fef73e60e5ca3b499c639071880cd72.info
+    projectPath: Library\metadata\2f\2fef73e60e5ca3b499c639071880cd72.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\31\31135a68bb0508a4caf029adfd2de7ec
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\31\31135a68bb0508a4caf029adfd2de7ec
+    projectPath: Library\metadata\31\31135a68bb0508a4caf029adfd2de7ec
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\31\31135a68bb0508a4caf029adfd2de7ec.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\31\31135a68bb0508a4caf029adfd2de7ec.info
+    projectPath: Library\metadata\31\31135a68bb0508a4caf029adfd2de7ec.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\31\313ae1ceec5ba8c4c92c978e21841eca
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\31\313ae1ceec5ba8c4c92c978e21841eca
+    projectPath: Library\metadata\31\313ae1ceec5ba8c4c92c978e21841eca
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\31\313ae1ceec5ba8c4c92c978e21841eca.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\31\313ae1ceec5ba8c4c92c978e21841eca.info
+    projectPath: Library\metadata\31\313ae1ceec5ba8c4c92c978e21841eca.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\32\32188fd89022c154c81befa2f0e00be0
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\32\32188fd89022c154c81befa2f0e00be0
+    projectPath: Library\metadata\32\32188fd89022c154c81befa2f0e00be0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\32\32188fd89022c154c81befa2f0e00be0.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\32\32188fd89022c154c81befa2f0e00be0.info
+    projectPath: Library\metadata\32\32188fd89022c154c81befa2f0e00be0.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
+    projectPath: Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9.info
+    projectPath: Library\metadata\32\328cc881519068e4eb7db4bb907ad2d9.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\33\3340bd340002e654092f12d2e552eff6
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\33\3340bd340002e654092f12d2e552eff6
+    projectPath: Library\metadata\33\3340bd340002e654092f12d2e552eff6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\33\3340bd340002e654092f12d2e552eff6.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\33\3340bd340002e654092f12d2e552eff6.info
+    projectPath: Library\metadata\33\3340bd340002e654092f12d2e552eff6.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\34\342ebfa2c8e06a24c8b445cf2f2d9784
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\34\342ebfa2c8e06a24c8b445cf2f2d9784
+    projectPath: Library\metadata\34\342ebfa2c8e06a24c8b445cf2f2d9784
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\34\342ebfa2c8e06a24c8b445cf2f2d9784.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\34\342ebfa2c8e06a24c8b445cf2f2d9784.info
+    projectPath: Library\metadata\34\342ebfa2c8e06a24c8b445cf2f2d9784.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\34\349a2940a5f0bb2428b4689b369e3b60
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\34\349a2940a5f0bb2428b4689b369e3b60
+    projectPath: Library\metadata\34\349a2940a5f0bb2428b4689b369e3b60
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\34\349a2940a5f0bb2428b4689b369e3b60.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\34\349a2940a5f0bb2428b4689b369e3b60.info
+    projectPath: Library\metadata\34\349a2940a5f0bb2428b4689b369e3b60.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\36\36f73b0d4842ba7448027c0215f522b1
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\36\36f73b0d4842ba7448027c0215f522b1
+    projectPath: Library\metadata\36\36f73b0d4842ba7448027c0215f522b1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\36\36f73b0d4842ba7448027c0215f522b1.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\36\36f73b0d4842ba7448027c0215f522b1.info
+    projectPath: Library\metadata\36\36f73b0d4842ba7448027c0215f522b1.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\38\381a5cd4ee94f9a4da692c64d8bb0511
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\38\381a5cd4ee94f9a4da692c64d8bb0511
+    projectPath: Library\metadata\38\381a5cd4ee94f9a4da692c64d8bb0511
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\38\381a5cd4ee94f9a4da692c64d8bb0511.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\38\381a5cd4ee94f9a4da692c64d8bb0511.info
+    projectPath: Library\metadata\38\381a5cd4ee94f9a4da692c64d8bb0511.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc
+    projectPath: Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc.info
+    projectPath: Library\metadata\38\38c8faf1788024c02930a0c68a6e0edc.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\38\38d049d603804824bb49c843ba5424ae
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\38\38d049d603804824bb49c843ba5424ae
+    projectPath: Library\metadata\38\38d049d603804824bb49c843ba5424ae
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\38\38d049d603804824bb49c843ba5424ae.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\38\38d049d603804824bb49c843ba5424ae.info
+    projectPath: Library\metadata\38\38d049d603804824bb49c843ba5424ae.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\3c\3c5c4ed4b3ee05f49b3029f4fceb5616
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\3c\3c5c4ed4b3ee05f49b3029f4fceb5616
+    projectPath: Library\metadata\3c\3c5c4ed4b3ee05f49b3029f4fceb5616
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\3c\3c5c4ed4b3ee05f49b3029f4fceb5616.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\3c\3c5c4ed4b3ee05f49b3029f4fceb5616.info
+    projectPath: Library\metadata\3c\3c5c4ed4b3ee05f49b3029f4fceb5616.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\3e\3e12d0c43ca38004cba5263372417e11
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\3e\3e12d0c43ca38004cba5263372417e11
+    projectPath: Library\metadata\3e\3e12d0c43ca38004cba5263372417e11
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\3e\3e12d0c43ca38004cba5263372417e11.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\3e\3e12d0c43ca38004cba5263372417e11.info
+    projectPath: Library\metadata\3e\3e12d0c43ca38004cba5263372417e11.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\40\405b9b51bb344a128608d968297df79c
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\40\405b9b51bb344a128608d968297df79c
+    projectPath: Library\metadata\40\405b9b51bb344a128608d968297df79c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\40\405b9b51bb344a128608d968297df79c.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\40\405b9b51bb344a128608d968297df79c.info
+    projectPath: Library\metadata\40\405b9b51bb344a128608d968297df79c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\41\4113173d5e95493ab8765d7b08371de4
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\41\4113173d5e95493ab8765d7b08371de4
+    projectPath: Library\metadata\41\4113173d5e95493ab8765d7b08371de4
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\41\4113173d5e95493ab8765d7b08371de4.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\41\4113173d5e95493ab8765d7b08371de4.info
+    projectPath: Library\metadata\41\4113173d5e95493ab8765d7b08371de4.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\43\43cec6d3eada3e949b21bb05236b3ee8
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\43\43cec6d3eada3e949b21bb05236b3ee8
+    projectPath: Library\metadata\43\43cec6d3eada3e949b21bb05236b3ee8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\43\43cec6d3eada3e949b21bb05236b3ee8.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\43\43cec6d3eada3e949b21bb05236b3ee8.info
+    projectPath: Library\metadata\43\43cec6d3eada3e949b21bb05236b3ee8.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\47\47195669389ecbb46b8d0609b98fd028
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\47\47195669389ecbb46b8d0609b98fd028
+    projectPath: Library\metadata\47\47195669389ecbb46b8d0609b98fd028
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\47\47195669389ecbb46b8d0609b98fd028.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\47\47195669389ecbb46b8d0609b98fd028.info
+    projectPath: Library\metadata\47\47195669389ecbb46b8d0609b98fd028.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    projectPath: Library\metadata\48\48c22d5d7479fcb49ab3be0cdd2ccec0.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\49\49a9622d5e6932245b46b3dbfd4f6562
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\49\49a9622d5e6932245b46b3dbfd4f6562
+    projectPath: Library\metadata\49\49a9622d5e6932245b46b3dbfd4f6562
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\49\49a9622d5e6932245b46b3dbfd4f6562.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\49\49a9622d5e6932245b46b3dbfd4f6562.info
+    projectPath: Library\metadata\49\49a9622d5e6932245b46b3dbfd4f6562.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677
+    projectPath: Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677.info
+    projectPath: Library\metadata\49\49f5766d0d4954f44b85d4bbd7131677.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+    projectPath: Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8.info
+    projectPath: Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    projectPath: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f.info
+    projectPath: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\4b\4bec126309f619542816e22d5b7afda1
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\4b\4bec126309f619542816e22d5b7afda1
+    projectPath: Library\metadata\4b\4bec126309f619542816e22d5b7afda1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\4b\4bec126309f619542816e22d5b7afda1.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\4b\4bec126309f619542816e22d5b7afda1.info
+    projectPath: Library\metadata\4b\4bec126309f619542816e22d5b7afda1.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\4c\4c9db223e80a443479c0e40e989dd66f
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\4c\4c9db223e80a443479c0e40e989dd66f
+    projectPath: Library\metadata\4c\4c9db223e80a443479c0e40e989dd66f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\4c\4c9db223e80a443479c0e40e989dd66f.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\4c\4c9db223e80a443479c0e40e989dd66f.info
+    projectPath: Library\metadata\4c\4c9db223e80a443479c0e40e989dd66f.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\4d\4dd6e07ba5186a04e87e468eb6d69c84
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\4d\4dd6e07ba5186a04e87e468eb6d69c84
+    projectPath: Library\metadata\4d\4dd6e07ba5186a04e87e468eb6d69c84
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\4d\4dd6e07ba5186a04e87e468eb6d69c84.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\4d\4dd6e07ba5186a04e87e468eb6d69c84.info
+    projectPath: Library\metadata\4d\4dd6e07ba5186a04e87e468eb6d69c84.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\4f\4f027cf5d43b69b43ad685a62f9ed171
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\4f\4f027cf5d43b69b43ad685a62f9ed171
+    projectPath: Library\metadata\4f\4f027cf5d43b69b43ad685a62f9ed171
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\4f\4f027cf5d43b69b43ad685a62f9ed171.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\4f\4f027cf5d43b69b43ad685a62f9ed171.info
+    projectPath: Library\metadata\4f\4f027cf5d43b69b43ad685a62f9ed171.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\4f\4f121dea0b8f6244db704f1ad7d5c256
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\4f\4f121dea0b8f6244db704f1ad7d5c256
+    projectPath: Library\metadata\4f\4f121dea0b8f6244db704f1ad7d5c256
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\4f\4f121dea0b8f6244db704f1ad7d5c256.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\4f\4f121dea0b8f6244db704f1ad7d5c256.info
+    projectPath: Library\metadata\4f\4f121dea0b8f6244db704f1ad7d5c256.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\50\50e45b81f8b8d074d8214da60357c4c5
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\50\50e45b81f8b8d074d8214da60357c4c5
+    projectPath: Library\metadata\50\50e45b81f8b8d074d8214da60357c4c5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\50\50e45b81f8b8d074d8214da60357c4c5.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\50\50e45b81f8b8d074d8214da60357c4c5.info
+    projectPath: Library\metadata\50\50e45b81f8b8d074d8214da60357c4c5.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\51\517af1b5b81b93b43b9745d58f017562
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\51\517af1b5b81b93b43b9745d58f017562
+    projectPath: Library\metadata\51\517af1b5b81b93b43b9745d58f017562
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\51\517af1b5b81b93b43b9745d58f017562.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\51\517af1b5b81b93b43b9745d58f017562.info
+    projectPath: Library\metadata\51\517af1b5b81b93b43b9745d58f017562.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\53\537b445e4db76ba4caa1d10dfd5bc9c1
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\53\537b445e4db76ba4caa1d10dfd5bc9c1
+    projectPath: Library\metadata\53\537b445e4db76ba4caa1d10dfd5bc9c1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\53\537b445e4db76ba4caa1d10dfd5bc9c1.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\53\537b445e4db76ba4caa1d10dfd5bc9c1.info
+    projectPath: Library\metadata\53\537b445e4db76ba4caa1d10dfd5bc9c1.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    projectPath: Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1.info
+    projectPath: Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\56\56523689ea5ff0f42bf89eb777706e12
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\56\56523689ea5ff0f42bf89eb777706e12
+    projectPath: Library\metadata\56\56523689ea5ff0f42bf89eb777706e12
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\56\56523689ea5ff0f42bf89eb777706e12.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\56\56523689ea5ff0f42bf89eb777706e12.info
+    projectPath: Library\metadata\56\56523689ea5ff0f42bf89eb777706e12.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\57\5748fdff539e7904c9d5c0051c866995
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\57\5748fdff539e7904c9d5c0051c866995
+    projectPath: Library\metadata\57\5748fdff539e7904c9d5c0051c866995
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\57\5748fdff539e7904c9d5c0051c866995.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\57\5748fdff539e7904c9d5c0051c866995.info
+    projectPath: Library\metadata\57\5748fdff539e7904c9d5c0051c866995.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc
+    projectPath: Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc.info
+    projectPath: Library\metadata\57\5782f9e9e6e0bb94bac99aeea24814fc.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\59\598f7cc167e65424284e573aff0f1294
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\59\598f7cc167e65424284e573aff0f1294
+    projectPath: Library\metadata\59\598f7cc167e65424284e573aff0f1294
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\59\598f7cc167e65424284e573aff0f1294.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\59\598f7cc167e65424284e573aff0f1294.info
+    projectPath: Library\metadata\59\598f7cc167e65424284e573aff0f1294.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
+    projectPath: Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7.info
+    projectPath: Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\61\618ea4db2d3f1bb48905fa56678c4009
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\61\618ea4db2d3f1bb48905fa56678c4009
+    projectPath: Library\metadata\61\618ea4db2d3f1bb48905fa56678c4009
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\61\618ea4db2d3f1bb48905fa56678c4009.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\61\618ea4db2d3f1bb48905fa56678c4009.info
+    projectPath: Library\metadata\61\618ea4db2d3f1bb48905fa56678c4009.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    projectPath: Library\metadata\63\636d33ae594884e7d80b569f429d245d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25
+    projectPath: Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25.info
+    projectPath: Library\metadata\67\67a48bef50c8f384ab614ca4fd2f1d25.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\69\6981461fe431401459211818212a29cf
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\69\6981461fe431401459211818212a29cf
+    projectPath: Library\metadata\69\6981461fe431401459211818212a29cf
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\69\6981461fe431401459211818212a29cf.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\69\6981461fe431401459211818212a29cf.info
+    projectPath: Library\metadata\69\6981461fe431401459211818212a29cf.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
+    projectPath: Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5.info
+    projectPath: Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\6a\6a6e3b62b69ba5b4286b62e50f321198
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\6a\6a6e3b62b69ba5b4286b62e50f321198
+    projectPath: Library\metadata\6a\6a6e3b62b69ba5b4286b62e50f321198
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\6a\6a6e3b62b69ba5b4286b62e50f321198.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\6a\6a6e3b62b69ba5b4286b62e50f321198.info
+    projectPath: Library\metadata\6a\6a6e3b62b69ba5b4286b62e50f321198.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\6d\6daa66f23a1e5324caec116fb03ca529
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\6d\6daa66f23a1e5324caec116fb03ca529
+    projectPath: Library\metadata\6d\6daa66f23a1e5324caec116fb03ca529
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\6d\6daa66f23a1e5324caec116fb03ca529.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\6d\6daa66f23a1e5324caec116fb03ca529.info
+    projectPath: Library\metadata\6d\6daa66f23a1e5324caec116fb03ca529.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\6f\6ffa394683922d74692e46691cb39200
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\6f\6ffa394683922d74692e46691cb39200
+    projectPath: Library\metadata\6f\6ffa394683922d74692e46691cb39200
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\6f\6ffa394683922d74692e46691cb39200.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\6f\6ffa394683922d74692e46691cb39200.info
+    projectPath: Library\metadata\6f\6ffa394683922d74692e46691cb39200.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\71\711963b7c6928c149b86ac8b14a259b5
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\71\711963b7c6928c149b86ac8b14a259b5
+    projectPath: Library\metadata\71\711963b7c6928c149b86ac8b14a259b5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\71\711963b7c6928c149b86ac8b14a259b5.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\71\711963b7c6928c149b86ac8b14a259b5.info
+    projectPath: Library\metadata\71\711963b7c6928c149b86ac8b14a259b5.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\72\72e41fdf663310345a9497b38278e80a
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\72\72e41fdf663310345a9497b38278e80a
+    projectPath: Library\metadata\72\72e41fdf663310345a9497b38278e80a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\72\72e41fdf663310345a9497b38278e80a.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\72\72e41fdf663310345a9497b38278e80a.info
+    projectPath: Library\metadata\72\72e41fdf663310345a9497b38278e80a.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\73\739bbd9f364b4268874f9fd86ab3beef
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\73\739bbd9f364b4268874f9fd86ab3beef
+    projectPath: Library\metadata\73\739bbd9f364b4268874f9fd86ab3beef
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\73\739bbd9f364b4268874f9fd86ab3beef.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\73\739bbd9f364b4268874f9fd86ab3beef.info
+    projectPath: Library\metadata\73\739bbd9f364b4268874f9fd86ab3beef.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+    projectPath: Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\76\7668179ede524d6396c8b7d84461ea29.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\76\7668179ede524d6396c8b7d84461ea29.info
+    projectPath: Library\metadata\76\7668179ede524d6396c8b7d84461ea29.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\78\7808a411ac6d49640a5b84fd4d92a3ea
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\78\7808a411ac6d49640a5b84fd4d92a3ea
+    projectPath: Library\metadata\78\7808a411ac6d49640a5b84fd4d92a3ea
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\78\7808a411ac6d49640a5b84fd4d92a3ea.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\78\7808a411ac6d49640a5b84fd4d92a3ea.info
+    projectPath: Library\metadata\78\7808a411ac6d49640a5b84fd4d92a3ea.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    projectPath: Library\metadata\79\790749ba7e4b18141953e39cb13f1b79.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\7c\7cc881bea450edc4ca7114e23fad3cee
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\7c\7cc881bea450edc4ca7114e23fad3cee
+    projectPath: Library\metadata\7c\7cc881bea450edc4ca7114e23fad3cee
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\7c\7cc881bea450edc4ca7114e23fad3cee.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\7c\7cc881bea450edc4ca7114e23fad3cee.info
+    projectPath: Library\metadata\7c\7cc881bea450edc4ca7114e23fad3cee.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\80\8037e587837ad4b4689047aa0d53f8c1
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\80\8037e587837ad4b4689047aa0d53f8c1
+    projectPath: Library\metadata\80\8037e587837ad4b4689047aa0d53f8c1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\80\8037e587837ad4b4689047aa0d53f8c1.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\80\8037e587837ad4b4689047aa0d53f8c1.info
+    projectPath: Library\metadata\80\8037e587837ad4b4689047aa0d53f8c1.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+    projectPath: Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f.info
+    projectPath: Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\81\81cef88c7e67ee2418a7b3574953c874
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\81\81cef88c7e67ee2418a7b3574953c874
+    projectPath: Library\metadata\81\81cef88c7e67ee2418a7b3574953c874
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\81\81cef88c7e67ee2418a7b3574953c874.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\81\81cef88c7e67ee2418a7b3574953c874.info
+    projectPath: Library\metadata\81\81cef88c7e67ee2418a7b3574953c874.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\83\8382b2bb260241859771b69b7f377a8d
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\83\8382b2bb260241859771b69b7f377a8d
+    projectPath: Library\metadata\83\8382b2bb260241859771b69b7f377a8d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\83\8382b2bb260241859771b69b7f377a8d.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\83\8382b2bb260241859771b69b7f377a8d.info
+    projectPath: Library\metadata\83\8382b2bb260241859771b69b7f377a8d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\84\844f815391db42d49455cbf1a7bfc434
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\84\844f815391db42d49455cbf1a7bfc434
+    projectPath: Library\metadata\84\844f815391db42d49455cbf1a7bfc434
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\84\844f815391db42d49455cbf1a7bfc434.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\84\844f815391db42d49455cbf1a7bfc434.info
+    projectPath: Library\metadata\84\844f815391db42d49455cbf1a7bfc434.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390
+    projectPath: Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390.info
+    projectPath: Library\metadata\84\84ca94c19f25ae14d83aa41bb3654390.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\85\852e56802eb941638acbb491814497b0
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\85\852e56802eb941638acbb491814497b0
+    projectPath: Library\metadata\85\852e56802eb941638acbb491814497b0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\85\852e56802eb941638acbb491814497b0.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\85\852e56802eb941638acbb491814497b0.info
+    projectPath: Library\metadata\85\852e56802eb941638acbb491814497b0.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\85\853cace4d6a11bc47b18d8c391da84bd
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\85\853cace4d6a11bc47b18d8c391da84bd
+    projectPath: Library\metadata\85\853cace4d6a11bc47b18d8c391da84bd
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\85\853cace4d6a11bc47b18d8c391da84bd.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\85\853cace4d6a11bc47b18d8c391da84bd.info
+    projectPath: Library\metadata\85\853cace4d6a11bc47b18d8c391da84bd.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\86\861fb7a42faec0c4da8f3c6d1081a294
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\86\861fb7a42faec0c4da8f3c6d1081a294
+    projectPath: Library\metadata\86\861fb7a42faec0c4da8f3c6d1081a294
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\86\861fb7a42faec0c4da8f3c6d1081a294.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\86\861fb7a42faec0c4da8f3c6d1081a294.info
+    projectPath: Library\metadata\86\861fb7a42faec0c4da8f3c6d1081a294.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    projectPath: Library\metadata\86\868fbb4c41814baebc00f96e24ede2f8.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\86\86f4de9468454445ac2f39e207fafa3a
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\86\86f4de9468454445ac2f39e207fafa3a
+    projectPath: Library\metadata\86\86f4de9468454445ac2f39e207fafa3a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\86\86f4de9468454445ac2f39e207fafa3a.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\86\86f4de9468454445ac2f39e207fafa3a.info
+    projectPath: Library\metadata\86\86f4de9468454445ac2f39e207fafa3a.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+    projectPath: Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\87\870353891bb340e2b2a9c8707e7419ba.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\87\870353891bb340e2b2a9c8707e7419ba.info
+    projectPath: Library\metadata\87\870353891bb340e2b2a9c8707e7419ba.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\89\893c2b490fb1a3943b1188a52afdb96e
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\89\893c2b490fb1a3943b1188a52afdb96e
+    projectPath: Library\metadata\89\893c2b490fb1a3943b1188a52afdb96e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\89\893c2b490fb1a3943b1188a52afdb96e.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\89\893c2b490fb1a3943b1188a52afdb96e.info
+    projectPath: Library\metadata\89\893c2b490fb1a3943b1188a52afdb96e.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\89\898a70ae3f2d42c48aaec711d30c83ef
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\89\898a70ae3f2d42c48aaec711d30c83ef
+    projectPath: Library\metadata\89\898a70ae3f2d42c48aaec711d30c83ef
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\89\898a70ae3f2d42c48aaec711d30c83ef.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\89\898a70ae3f2d42c48aaec711d30c83ef.info
+    projectPath: Library\metadata\89\898a70ae3f2d42c48aaec711d30c83ef.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\8a\8aac1bc0407c34941b6c1b2a78f4fc19
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\8a\8aac1bc0407c34941b6c1b2a78f4fc19
+    projectPath: Library\metadata\8a\8aac1bc0407c34941b6c1b2a78f4fc19
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\8a\8aac1bc0407c34941b6c1b2a78f4fc19.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\8a\8aac1bc0407c34941b6c1b2a78f4fc19.info
+    projectPath: Library\metadata\8a\8aac1bc0407c34941b6c1b2a78f4fc19.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\8d\8d3b2efafcfba0d4b8b774d22d9faa14
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\8d\8d3b2efafcfba0d4b8b774d22d9faa14
+    projectPath: Library\metadata\8d\8d3b2efafcfba0d4b8b774d22d9faa14
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\8d\8d3b2efafcfba0d4b8b774d22d9faa14.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\8d\8d3b2efafcfba0d4b8b774d22d9faa14.info
+    projectPath: Library\metadata\8d\8d3b2efafcfba0d4b8b774d22d9faa14.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\8d\8d67445f372160749952cc9cb840801a
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\8d\8d67445f372160749952cc9cb840801a
+    projectPath: Library\metadata\8d\8d67445f372160749952cc9cb840801a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\8d\8d67445f372160749952cc9cb840801a.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\8d\8d67445f372160749952cc9cb840801a.info
+    projectPath: Library\metadata\8d\8d67445f372160749952cc9cb840801a.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\8e\8e0cd8ed44d4412cbe0642067abc9e44
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\8e\8e0cd8ed44d4412cbe0642067abc9e44
+    projectPath: Library\metadata\8e\8e0cd8ed44d4412cbe0642067abc9e44
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\8e\8e0cd8ed44d4412cbe0642067abc9e44.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\8e\8e0cd8ed44d4412cbe0642067abc9e44.info
+    projectPath: Library\metadata\8e\8e0cd8ed44d4412cbe0642067abc9e44.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe
+    projectPath: Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe.info
+    projectPath: Library\metadata\8e\8e7066e382b0fc749b25dbb1a3004dfe.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\8f\8fff01c3575692245978d575eb73090d
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\8f\8fff01c3575692245978d575eb73090d
+    projectPath: Library\metadata\8f\8fff01c3575692245978d575eb73090d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\8f\8fff01c3575692245978d575eb73090d.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\8f\8fff01c3575692245978d575eb73090d.info
+    projectPath: Library\metadata\8f\8fff01c3575692245978d575eb73090d.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\90\9078b7128e594410d9b89e5b24cffd01
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\90\9078b7128e594410d9b89e5b24cffd01
+    projectPath: Library\metadata\90\9078b7128e594410d9b89e5b24cffd01
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\90\9078b7128e594410d9b89e5b24cffd01.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\90\9078b7128e594410d9b89e5b24cffd01.info
+    projectPath: Library\metadata\90\9078b7128e594410d9b89e5b24cffd01.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\91\913c98d741f2f9549a80b7e4643eee83
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\91\913c98d741f2f9549a80b7e4643eee83
+    projectPath: Library\metadata\91\913c98d741f2f9549a80b7e4643eee83
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\91\913c98d741f2f9549a80b7e4643eee83.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\91\913c98d741f2f9549a80b7e4643eee83.info
+    projectPath: Library\metadata\91\913c98d741f2f9549a80b7e4643eee83.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\93\93bc52c96d729864cacfed9ca20379f1
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\93\93bc52c96d729864cacfed9ca20379f1
+    projectPath: Library\metadata\93\93bc52c96d729864cacfed9ca20379f1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\93\93bc52c96d729864cacfed9ca20379f1.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\93\93bc52c96d729864cacfed9ca20379f1.info
+    projectPath: Library\metadata\93\93bc52c96d729864cacfed9ca20379f1.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\94\94dc2136ce438614383a3287abf77e1b
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\94\94dc2136ce438614383a3287abf77e1b
+    projectPath: Library\metadata\94\94dc2136ce438614383a3287abf77e1b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\94\94dc2136ce438614383a3287abf77e1b.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\94\94dc2136ce438614383a3287abf77e1b.info
+    projectPath: Library\metadata\94\94dc2136ce438614383a3287abf77e1b.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\97\97decbdab0634cdd991f8d23ddf0dead
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\97\97decbdab0634cdd991f8d23ddf0dead
+    projectPath: Library\metadata\97\97decbdab0634cdd991f8d23ddf0dead
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\97\97decbdab0634cdd991f8d23ddf0dead.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\97\97decbdab0634cdd991f8d23ddf0dead.info
+    projectPath: Library\metadata\97\97decbdab0634cdd991f8d23ddf0dead.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\98\98a1c109680e6934eb0d8c56c9271374
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\98\98a1c109680e6934eb0d8c56c9271374
+    projectPath: Library\metadata\98\98a1c109680e6934eb0d8c56c9271374
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\98\98a1c109680e6934eb0d8c56c9271374.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\98\98a1c109680e6934eb0d8c56c9271374.info
+    projectPath: Library\metadata\98\98a1c109680e6934eb0d8c56c9271374.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    projectPath: Library\metadata\99\99b48d4d4f6a66340ab06bd487d70a45.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\9c\9c49232ee07aab843a4cda047ab2d2d9
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\9c\9c49232ee07aab843a4cda047ab2d2d9
+    projectPath: Library\metadata\9c\9c49232ee07aab843a4cda047ab2d2d9
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\9c\9c49232ee07aab843a4cda047ab2d2d9.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\9c\9c49232ee07aab843a4cda047ab2d2d9.info
+    projectPath: Library\metadata\9c\9c49232ee07aab843a4cda047ab2d2d9.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    projectPath: Library\metadata\a0\a0ded7adcc817ce489fec07977f16d13.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb
+    projectPath: Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb.info
+    projectPath: Library\metadata\a1\a1ae072c6d0a6fe42881de7c5c8d66eb.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\a4\a4c56ba3a5c36ab4da69b6e81652b2f8
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\a4\a4c56ba3a5c36ab4da69b6e81652b2f8
+    projectPath: Library\metadata\a4\a4c56ba3a5c36ab4da69b6e81652b2f8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\a4\a4c56ba3a5c36ab4da69b6e81652b2f8.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\a4\a4c56ba3a5c36ab4da69b6e81652b2f8.info
+    projectPath: Library\metadata\a4\a4c56ba3a5c36ab4da69b6e81652b2f8.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    projectPath: Library\metadata\a8\a83159a46d87d2a4f8cec651049b9231.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\a8\a8b97ba72d88e4244b27682561e1d4da
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\a8\a8b97ba72d88e4244b27682561e1d4da
+    projectPath: Library\metadata\a8\a8b97ba72d88e4244b27682561e1d4da
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\a8\a8b97ba72d88e4244b27682561e1d4da.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\a8\a8b97ba72d88e4244b27682561e1d4da.info
+    projectPath: Library\metadata\a8\a8b97ba72d88e4244b27682561e1d4da.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\a8\a8d1eb82b819bb1458b68dc9d5575b30
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\a8\a8d1eb82b819bb1458b68dc9d5575b30
+    projectPath: Library\metadata\a8\a8d1eb82b819bb1458b68dc9d5575b30
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\a8\a8d1eb82b819bb1458b68dc9d5575b30.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\a8\a8d1eb82b819bb1458b68dc9d5575b30.info
+    projectPath: Library\metadata\a8\a8d1eb82b819bb1458b68dc9d5575b30.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\ab\ab2d7f8e9dd52474c9382992cb66b069
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\ab\ab2d7f8e9dd52474c9382992cb66b069
+    projectPath: Library\metadata\ab\ab2d7f8e9dd52474c9382992cb66b069
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\ab\ab2d7f8e9dd52474c9382992cb66b069.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\ab\ab2d7f8e9dd52474c9382992cb66b069.info
+    projectPath: Library\metadata\ab\ab2d7f8e9dd52474c9382992cb66b069.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
+    projectPath: Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f.info
+    projectPath: Library\metadata\ad\adebbd281f1a4ef3a30be7f21937e02f.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\af\af2b4edcffc479445b8f45e1914da271
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\af\af2b4edcffc479445b8f45e1914da271
+    projectPath: Library\metadata\af\af2b4edcffc479445b8f45e1914da271
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\af\af2b4edcffc479445b8f45e1914da271.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\af\af2b4edcffc479445b8f45e1914da271.info
+    projectPath: Library\metadata\af\af2b4edcffc479445b8f45e1914da271.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e
+    projectPath: Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e.info
+    projectPath: Library\metadata\b2\b2b693dffac3a4433b3114fea0b7fd4e.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
+    projectPath: Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70.info
+    projectPath: Library\metadata\b2\b2bead50dbf86924f8e51f03ddbebf70.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\b4\b455a70c012793a4d94fe976e18140af
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\b4\b455a70c012793a4d94fe976e18140af
+    projectPath: Library\metadata\b4\b455a70c012793a4d94fe976e18140af
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\b4\b455a70c012793a4d94fe976e18140af.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\b4\b455a70c012793a4d94fe976e18140af.info
+    projectPath: Library\metadata\b4\b455a70c012793a4d94fe976e18140af.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\b5\b5b7a3f85fdb7454e93be69c0f41ce5a
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\b5\b5b7a3f85fdb7454e93be69c0f41ce5a
+    projectPath: Library\metadata\b5\b5b7a3f85fdb7454e93be69c0f41ce5a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\b5\b5b7a3f85fdb7454e93be69c0f41ce5a.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\b5\b5b7a3f85fdb7454e93be69c0f41ce5a.info
+    projectPath: Library\metadata\b5\b5b7a3f85fdb7454e93be69c0f41ce5a.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\b7\b72e88bbf7a07624d9ad3e86fb9f996c
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\b7\b72e88bbf7a07624d9ad3e86fb9f996c
+    projectPath: Library\metadata\b7\b72e88bbf7a07624d9ad3e86fb9f996c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\b7\b72e88bbf7a07624d9ad3e86fb9f996c.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\b7\b72e88bbf7a07624d9ad3e86fb9f996c.info
+    projectPath: Library\metadata\b7\b72e88bbf7a07624d9ad3e86fb9f996c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\b8\b88cae02c8fab6e47999b50827bb1530
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\b8\b88cae02c8fab6e47999b50827bb1530
+    projectPath: Library\metadata\b8\b88cae02c8fab6e47999b50827bb1530
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\b8\b88cae02c8fab6e47999b50827bb1530.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\b8\b88cae02c8fab6e47999b50827bb1530.info
+    projectPath: Library\metadata\b8\b88cae02c8fab6e47999b50827bb1530.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\b9\b9444123eb14134478f6103ef0d93437
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\b9\b9444123eb14134478f6103ef0d93437
+    projectPath: Library\metadata\b9\b9444123eb14134478f6103ef0d93437
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\b9\b9444123eb14134478f6103ef0d93437.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\b9\b9444123eb14134478f6103ef0d93437.info
+    projectPath: Library\metadata\b9\b9444123eb14134478f6103ef0d93437.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c
+    projectPath: Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c.info
+    projectPath: Library\metadata\ba\ba8ad3e6c5be01e448c1f3593515049c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\bb\bb0f8bce6cf1f134084ddba3a243f58f
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\bb\bb0f8bce6cf1f134084ddba3a243f58f
+    projectPath: Library\metadata\bb\bb0f8bce6cf1f134084ddba3a243f58f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\bb\bb0f8bce6cf1f134084ddba3a243f58f.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\bb\bb0f8bce6cf1f134084ddba3a243f58f.info
+    projectPath: Library\metadata\bb\bb0f8bce6cf1f134084ddba3a243f58f.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\bb\bbbc03971ac404d47ad680a677b15d32
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\bb\bbbc03971ac404d47ad680a677b15d32
+    projectPath: Library\metadata\bb\bbbc03971ac404d47ad680a677b15d32
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\bb\bbbc03971ac404d47ad680a677b15d32.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\bb\bbbc03971ac404d47ad680a677b15d32.info
+    projectPath: Library\metadata\bb\bbbc03971ac404d47ad680a677b15d32.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\bc\bc9a5f6325c0832408624f471a6c1425
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\bc\bc9a5f6325c0832408624f471a6c1425
+    projectPath: Library\metadata\bc\bc9a5f6325c0832408624f471a6c1425
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\bc\bc9a5f6325c0832408624f471a6c1425.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\bc\bc9a5f6325c0832408624f471a6c1425.info
+    projectPath: Library\metadata\bc\bc9a5f6325c0832408624f471a6c1425.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\c1\c1eb0d289ecf9f34bbd08287ab6c2d87
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\c1\c1eb0d289ecf9f34bbd08287ab6c2d87
+    projectPath: Library\metadata\c1\c1eb0d289ecf9f34bbd08287ab6c2d87
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\c1\c1eb0d289ecf9f34bbd08287ab6c2d87.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\c1\c1eb0d289ecf9f34bbd08287ab6c2d87.info
+    projectPath: Library\metadata\c1\c1eb0d289ecf9f34bbd08287ab6c2d87.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    projectPath: Library\metadata\c5\c5c83d14802e712408f23409f3c59e26.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\c6\c6d6cc705b2fa53448f26dd682a4a938
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\c6\c6d6cc705b2fa53448f26dd682a4a938
+    projectPath: Library\metadata\c6\c6d6cc705b2fa53448f26dd682a4a938
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\c6\c6d6cc705b2fa53448f26dd682a4a938.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\c6\c6d6cc705b2fa53448f26dd682a4a938.info
+    projectPath: Library\metadata\c6\c6d6cc705b2fa53448f26dd682a4a938.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    projectPath: Library\metadata\c7\c743ae24ee231884887054d20ccdd0ae.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506
+    projectPath: Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506.info
+    projectPath: Library\metadata\ca\ca9ef9f91d24fab40addaf0deaf60506.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    projectPath: Library\metadata\ca\cad92998c5182496e8b989b406d9f156.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\d3\d301b02d403f0b14da47c02442ad3731
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\d3\d301b02d403f0b14da47c02442ad3731
+    projectPath: Library\metadata\d3\d301b02d403f0b14da47c02442ad3731
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\d3\d301b02d403f0b14da47c02442ad3731.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\d3\d301b02d403f0b14da47c02442ad3731.info
+    projectPath: Library\metadata\d3\d301b02d403f0b14da47c02442ad3731.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    projectPath: Library\metadata\d5\d516f2a1bec6a9645a084ef8c9237132.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    projectPath: Library\metadata\dd\ddb8611e748af425a82a497ac5a98c0c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+    projectPath: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+    projectPath: Library\metadata\ec\ecfb28d906a32914d956497c8d3b3395.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    projectPath: Library\metadata\f9\f9fc9b08ecd899944adf9860b4abd6b6.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\fa\fa0b7ff2ca75844478f914fe7f4ce859
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\fa\fa0b7ff2ca75844478f914fe7f4ce859
+    projectPath: Library\metadata\fa\fa0b7ff2ca75844478f914fe7f4ce859
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\fa\fa0b7ff2ca75844478f914fe7f4ce859.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\fa\fa0b7ff2ca75844478f914fe7f4ce859.info
+    projectPath: Library\metadata\fa\fa0b7ff2ca75844478f914fe7f4ce859.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\fb\fbc84c328cf603c42b4cf5a9e143e72c
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\fb\fbc84c328cf603c42b4cf5a9e143e72c
+    projectPath: Library\metadata\fb\fbc84c328cf603c42b4cf5a9e143e72c
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\fb\fbc84c328cf603c42b4cf5a9e143e72c.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\fb\fbc84c328cf603c42b4cf5a9e143e72c.info
+    projectPath: Library\metadata\fb\fbc84c328cf603c42b4cf5a9e143e72c.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    projectPath: Library\metadata\fe\fe5abeadcbe591e4fa9107fbc02f3998.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\fe\fe6cbb0875a195a43afd39ef2be325ad
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\fe\fe6cbb0875a195a43afd39ef2be325ad
+    projectPath: Library\metadata\fe\fe6cbb0875a195a43afd39ef2be325ad
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\fe\fe6cbb0875a195a43afd39ef2be325ad.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\fe\fe6cbb0875a195a43afd39ef2be325ad.info
+    projectPath: Library\metadata\fe\fe6cbb0875a195a43afd39ef2be325ad.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\ff\ff36d8375de63554c8001f27627f0517
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\ff\ff36d8375de63554c8001f27627f0517
+    projectPath: Library\metadata\ff\ff36d8375de63554c8001f27627f0517
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\ff\ff36d8375de63554c8001f27627f0517.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\ff\ff36d8375de63554c8001f27627f0517.info
+    projectPath: Library\metadata\ff\ff36d8375de63554c8001f27627f0517.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\ff\ff445a654378dab44926504fc76e314a
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\ff\ff445a654378dab44926504fc76e314a
+    projectPath: Library\metadata\ff\ff445a654378dab44926504fc76e314a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\ff\ff445a654378dab44926504fc76e314a.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\ff\ff445a654378dab44926504fc76e314a.info
+    projectPath: Library\metadata\ff\ff445a654378dab44926504fc76e314a.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\ff\ff627a03eedcbc94aa4b4a170f65ed0b
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\ff\ff627a03eedcbc94aa4b4a170f65ed0b
+    projectPath: Library\metadata\ff\ff627a03eedcbc94aa4b4a170f65ed0b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\metadata\ff\ff627a03eedcbc94aa4b4a170f65ed0b.info
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\ff\ff627a03eedcbc94aa4b4a170f65ed0b.info
+    projectPath: Library\metadata\ff\ff627a03eedcbc94aa4b4a170f65ed0b.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\p4plugin.log
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\p4plugin.log
+    projectPath: Library\p4plugin.log
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\6\61fbfef63bae4486e53c77ed0d4ceebd.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\6\61fbfef63bae4486e53c77ed0d4ceebd.bin
+    projectPath: Library\ShaderCache\6\61fbfef63bae4486e53c77ed0d4ceebd.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\6\62040174fdca9a211650d6d9dafc1142.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\6\62040174fdca9a211650d6d9dafc1142.bin
+    projectPath: Library\ShaderCache\6\62040174fdca9a211650d6d9dafc1142.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\6\6315a015d825e6e8d064a1fb7816d39c.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\6\6315a015d825e6e8d064a1fb7816d39c.bin
+    projectPath: Library\ShaderCache\6\6315a015d825e6e8d064a1fb7816d39c.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\6\651c1c3cc172ebd65fa240d5525e151c.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\6\651c1c3cc172ebd65fa240d5525e151c.bin
+    projectPath: Library\ShaderCache\6\651c1c3cc172ebd65fa240d5525e151c.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\6\652d6982cad9dba52d8e1f065c06d61d.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\6\652d6982cad9dba52d8e1f065c06d61d.bin
+    projectPath: Library\ShaderCache\6\652d6982cad9dba52d8e1f065c06d61d.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\6\657c0b12db2520bf047fbb0202821e88.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\6\657c0b12db2520bf047fbb0202821e88.bin
+    projectPath: Library\ShaderCache\6\657c0b12db2520bf047fbb0202821e88.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\6\660ad06ba54b15a1a43a22d667431a60.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\6\660ad06ba54b15a1a43a22d667431a60.bin
+    projectPath: Library\ShaderCache\6\660ad06ba54b15a1a43a22d667431a60.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\6\66eb73085ce1d4cf773ab4d732b91454.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\6\66eb73085ce1d4cf773ab4d732b91454.bin
+    projectPath: Library\ShaderCache\6\66eb73085ce1d4cf773ab4d732b91454.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\6\671e8a1aad52b7f05b8ca286ecc4ec5f.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\6\671e8a1aad52b7f05b8ca286ecc4ec5f.bin
+    projectPath: Library\ShaderCache\6\671e8a1aad52b7f05b8ca286ecc4ec5f.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\6\672fabdbf18e80780b4afaa8b6a37dfe.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\6\672fabdbf18e80780b4afaa8b6a37dfe.bin
+    projectPath: Library\ShaderCache\6\672fabdbf18e80780b4afaa8b6a37dfe.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\6\677296abd5b57f705170a9638df558fc.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\6\677296abd5b57f705170a9638df558fc.bin
+    projectPath: Library\ShaderCache\6\677296abd5b57f705170a9638df558fc.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\6\67be17422804d02bfb7e38b8450ddab2.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\6\67be17422804d02bfb7e38b8450ddab2.bin
+    projectPath: Library\ShaderCache\6\67be17422804d02bfb7e38b8450ddab2.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\6\6849b1d82f55d8c069b578d555ce7b5b.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\6\6849b1d82f55d8c069b578d555ce7b5b.bin
+    projectPath: Library\ShaderCache\6\6849b1d82f55d8c069b578d555ce7b5b.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\6\68a0822447612816668ab534153bb679.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\6\68a0822447612816668ab534153bb679.bin
+    projectPath: Library\ShaderCache\6\68a0822447612816668ab534153bb679.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\6\6ab19e9b15f2441e9cf0bb6620b8ecf7.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\6\6ab19e9b15f2441e9cf0bb6620b8ecf7.bin
+    projectPath: Library\ShaderCache\6\6ab19e9b15f2441e9cf0bb6620b8ecf7.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\6\6ab617ebe15d63d34c227e46442690f6.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\6\6ab617ebe15d63d34c227e46442690f6.bin
+    projectPath: Library\ShaderCache\6\6ab617ebe15d63d34c227e46442690f6.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\6\6afaa0b8990551a474662b1e1d323ba1.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\6\6afaa0b8990551a474662b1e1d323ba1.bin
+    projectPath: Library\ShaderCache\6\6afaa0b8990551a474662b1e1d323ba1.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\6\6d3a840fdb646c47605b144a3a2e67dd.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\6\6d3a840fdb646c47605b144a3a2e67dd.bin
+    projectPath: Library\ShaderCache\6\6d3a840fdb646c47605b144a3a2e67dd.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\b\b97165b3dc81de8f1dd09f475ecc1485.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\b\b97165b3dc81de8f1dd09f475ecc1485.bin
+    projectPath: Library\ShaderCache\b\b97165b3dc81de8f1dd09f475ecc1485.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\b\ba5422a7686b8c876a0006441302c997.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\b\ba5422a7686b8c876a0006441302c997.bin
+    projectPath: Library\ShaderCache\b\ba5422a7686b8c876a0006441302c997.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\b\bc84790e9c2207b2e45f2571c1d8aeac.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\b\bc84790e9c2207b2e45f2571c1d8aeac.bin
+    projectPath: Library\ShaderCache\b\bc84790e9c2207b2e45f2571c1d8aeac.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\b\be1eb22a0639d2f11af1a92c2cb0e7c7.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\b\be1eb22a0639d2f11af1a92c2cb0e7c7.bin
+    projectPath: Library\ShaderCache\b\be1eb22a0639d2f11af1a92c2cb0e7c7.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\b\bf0e9f425fb98170682b2e8f30ae4d6f.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\b\bf0e9f425fb98170682b2e8f30ae4d6f.bin
+    projectPath: Library\ShaderCache\b\bf0e9f425fb98170682b2e8f30ae4d6f.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\b\bf4d732d192a36c5fca43144c00a9845.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\b\bf4d732d192a36c5fca43144c00a9845.bin
+    projectPath: Library\ShaderCache\b\bf4d732d192a36c5fca43144c00a9845.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\b\bfeb5184d5694f9dfe34b2f1a2f49f33.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\b\bfeb5184d5694f9dfe34b2f1a2f49f33.bin
+    projectPath: Library\ShaderCache\b\bfeb5184d5694f9dfe34b2f1a2f49f33.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\c\c1754f16bccd7af590778d6c5cf35c7b.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\c\c1754f16bccd7af590778d6c5cf35c7b.bin
+    projectPath: Library\ShaderCache\c\c1754f16bccd7af590778d6c5cf35c7b.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\c\c1d22ff2c1e5a076a7a81eb5faace81e.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\c\c1d22ff2c1e5a076a7a81eb5faace81e.bin
+    projectPath: Library\ShaderCache\c\c1d22ff2c1e5a076a7a81eb5faace81e.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\c\c1ea4c7126a22e49163183e66a7d4333.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\c\c1ea4c7126a22e49163183e66a7d4333.bin
+    projectPath: Library\ShaderCache\c\c1ea4c7126a22e49163183e66a7d4333.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\c\c4f21b7fd9b386ea73b192e50f943d5f.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\c\c4f21b7fd9b386ea73b192e50f943d5f.bin
+    projectPath: Library\ShaderCache\c\c4f21b7fd9b386ea73b192e50f943d5f.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\c\c57b35a651fa5e5ef94bb221e0e1bede.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\c\c57b35a651fa5e5ef94bb221e0e1bede.bin
+    projectPath: Library\ShaderCache\c\c57b35a651fa5e5ef94bb221e0e1bede.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\c\c686a292320f2dd20ee36f4eb3f8a55a.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\c\c686a292320f2dd20ee36f4eb3f8a55a.bin
+    projectPath: Library\ShaderCache\c\c686a292320f2dd20ee36f4eb3f8a55a.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\c\c73f67766fd5b9cace8dfc746bc78362.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\c\c73f67766fd5b9cace8dfc746bc78362.bin
+    projectPath: Library\ShaderCache\c\c73f67766fd5b9cace8dfc746bc78362.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\c\c881fb2c5a1a3ba8ba2634797ce6dd1f.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\c\c881fb2c5a1a3ba8ba2634797ce6dd1f.bin
+    projectPath: Library\ShaderCache\c\c881fb2c5a1a3ba8ba2634797ce6dd1f.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\c\c9dcce6bf21f0b26e2c1e3402ce94272.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\c\c9dcce6bf21f0b26e2c1e3402ce94272.bin
+    projectPath: Library\ShaderCache\c\c9dcce6bf21f0b26e2c1e3402ce94272.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\c\ca6b45b85a1035805163f294cab98e62.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\c\ca6b45b85a1035805163f294cab98e62.bin
+    projectPath: Library\ShaderCache\c\ca6b45b85a1035805163f294cab98e62.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\c\cab6193f9086a10a9ddd882324c3400d.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\c\cab6193f9086a10a9ddd882324c3400d.bin
+    projectPath: Library\ShaderCache\c\cab6193f9086a10a9ddd882324c3400d.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\c\cae3073678908e9fed3079e739909b84.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\c\cae3073678908e9fed3079e739909b84.bin
+    projectPath: Library\ShaderCache\c\cae3073678908e9fed3079e739909b84.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\c\cb7df9492d61c99ae41525b142d2f6a5.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\c\cb7df9492d61c99ae41525b142d2f6a5.bin
+    projectPath: Library\ShaderCache\c\cb7df9492d61c99ae41525b142d2f6a5.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\c\cbd0ae916f2cd8fe47422e25b32681fd.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\c\cbd0ae916f2cd8fe47422e25b32681fd.bin
+    projectPath: Library\ShaderCache\c\cbd0ae916f2cd8fe47422e25b32681fd.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\c\cc2653c21f248361dc3ddf78ec618c82.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\c\cc2653c21f248361dc3ddf78ec618c82.bin
+    projectPath: Library\ShaderCache\c\cc2653c21f248361dc3ddf78ec618c82.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\c\cc4a831962949200abbd37cecb2e9e27.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\c\cc4a831962949200abbd37cecb2e9e27.bin
+    projectPath: Library\ShaderCache\c\cc4a831962949200abbd37cecb2e9e27.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\c\ce8ff88b7e2b921ee2af38074d3aeeef.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\c\ce8ff88b7e2b921ee2af38074d3aeeef.bin
+    projectPath: Library\ShaderCache\c\ce8ff88b7e2b921ee2af38074d3aeeef.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\d\d151d649ac8ba31aba0068a302135d9d.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\d\d151d649ac8ba31aba0068a302135d9d.bin
+    projectPath: Library\ShaderCache\d\d151d649ac8ba31aba0068a302135d9d.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\d\d21b908d529a7d4919990385e84f3bdf.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\d\d21b908d529a7d4919990385e84f3bdf.bin
+    projectPath: Library\ShaderCache\d\d21b908d529a7d4919990385e84f3bdf.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\d\d27cca751e71855979089298c381dd80.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\d\d27cca751e71855979089298c381dd80.bin
+    projectPath: Library\ShaderCache\d\d27cca751e71855979089298c381dd80.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\d\d312c8c5a9c2f0a344d8ebf62a321781.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\d\d312c8c5a9c2f0a344d8ebf62a321781.bin
+    projectPath: Library\ShaderCache\d\d312c8c5a9c2f0a344d8ebf62a321781.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\d\d479dedfe11c411fc3d9e0d75d6c737c.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\d\d479dedfe11c411fc3d9e0d75d6c737c.bin
+    projectPath: Library\ShaderCache\d\d479dedfe11c411fc3d9e0d75d6c737c.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\d\d569b9e1f8accfd54fc79ab0cdf7366d.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\d\d569b9e1f8accfd54fc79ab0cdf7366d.bin
+    projectPath: Library\ShaderCache\d\d569b9e1f8accfd54fc79ab0cdf7366d.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\d\d5ca9e1ebf19d319acf81b685e71678b.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\d\d5ca9e1ebf19d319acf81b685e71678b.bin
+    projectPath: Library\ShaderCache\d\d5ca9e1ebf19d319acf81b685e71678b.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\d\d6b9ef855b7738e838175c922b4fae90.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\d\d6b9ef855b7738e838175c922b4fae90.bin
+    projectPath: Library\ShaderCache\d\d6b9ef855b7738e838175c922b4fae90.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\d\d713ede470f2b3ae850cdf1f49bc3d1c.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\d\d713ede470f2b3ae850cdf1f49bc3d1c.bin
+    projectPath: Library\ShaderCache\d\d713ede470f2b3ae850cdf1f49bc3d1c.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\d\d7926ab3bc3536bcc365e3f3315daeb8.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\d\d7926ab3bc3536bcc365e3f3315daeb8.bin
+    projectPath: Library\ShaderCache\d\d7926ab3bc3536bcc365e3f3315daeb8.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\d\d80211d8823fe30a01e296a8b68bbcf5.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\d\d80211d8823fe30a01e296a8b68bbcf5.bin
+    projectPath: Library\ShaderCache\d\d80211d8823fe30a01e296a8b68bbcf5.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\d\d8224ee632665d05830fe8a02cf2faa5.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\d\d8224ee632665d05830fe8a02cf2faa5.bin
+    projectPath: Library\ShaderCache\d\d8224ee632665d05830fe8a02cf2faa5.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\d\d8280aa55906c2b399bb0a5df0ace88d.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\d\d8280aa55906c2b399bb0a5df0ace88d.bin
+    projectPath: Library\ShaderCache\d\d8280aa55906c2b399bb0a5df0ace88d.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\d\dad1c5998aa55b3348d372e4126ec8f1.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\d\dad1c5998aa55b3348d372e4126ec8f1.bin
+    projectPath: Library\ShaderCache\d\dad1c5998aa55b3348d372e4126ec8f1.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\d\db36f3be25722c8e4c7a80d0d466f2b0.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\d\db36f3be25722c8e4c7a80d0d466f2b0.bin
+    projectPath: Library\ShaderCache\d\db36f3be25722c8e4c7a80d0d466f2b0.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\d\dc6b45972f89ead6b72e456bca27a84b.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\d\dc6b45972f89ead6b72e456bca27a84b.bin
+    projectPath: Library\ShaderCache\d\dc6b45972f89ead6b72e456bca27a84b.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\d\dd32610132445ed196906bd4e71a3730.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\d\dd32610132445ed196906bd4e71a3730.bin
+    projectPath: Library\ShaderCache\d\dd32610132445ed196906bd4e71a3730.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\d\dd70c562da736ab3ba72f29c80635d09.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\d\dd70c562da736ab3ba72f29c80635d09.bin
+    projectPath: Library\ShaderCache\d\dd70c562da736ab3ba72f29c80635d09.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\d\def664090e4157aee6d86a5e75bbbc32.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\d\def664090e4157aee6d86a5e75bbbc32.bin
+    projectPath: Library\ShaderCache\d\def664090e4157aee6d86a5e75bbbc32.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\e\e04ab9dea5b1453aaf42ed0379d6f033.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\e\e04ab9dea5b1453aaf42ed0379d6f033.bin
+    projectPath: Library\ShaderCache\e\e04ab9dea5b1453aaf42ed0379d6f033.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\e\e0d6a2069f32cf2cebb83451f2b79b31.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\e\e0d6a2069f32cf2cebb83451f2b79b31.bin
+    projectPath: Library\ShaderCache\e\e0d6a2069f32cf2cebb83451f2b79b31.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\e\e1cad96d4e2eab57694e221efad10071.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\e\e1cad96d4e2eab57694e221efad10071.bin
+    projectPath: Library\ShaderCache\e\e1cad96d4e2eab57694e221efad10071.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\e\e1dacbaeef3f720f8cb79201369a2076.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\e\e1dacbaeef3f720f8cb79201369a2076.bin
+    projectPath: Library\ShaderCache\e\e1dacbaeef3f720f8cb79201369a2076.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\e\e3d517711477c4788629615d74cbc66c.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\e\e3d517711477c4788629615d74cbc66c.bin
+    projectPath: Library\ShaderCache\e\e3d517711477c4788629615d74cbc66c.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\e\e3e6a6347eec3699b79e293d625edb73.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\e\e3e6a6347eec3699b79e293d625edb73.bin
+    projectPath: Library\ShaderCache\e\e3e6a6347eec3699b79e293d625edb73.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\e\e4f143d6af9e47874209f0a42351a284.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\e\e4f143d6af9e47874209f0a42351a284.bin
+    projectPath: Library\ShaderCache\e\e4f143d6af9e47874209f0a42351a284.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\e\e5038f2b69de41eacfe1751bf887ff32.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\e\e5038f2b69de41eacfe1751bf887ff32.bin
+    projectPath: Library\ShaderCache\e\e5038f2b69de41eacfe1751bf887ff32.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\e\e5390f11376e3ede1666ac94262c2801.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\e\e5390f11376e3ede1666ac94262c2801.bin
+    projectPath: Library\ShaderCache\e\e5390f11376e3ede1666ac94262c2801.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\e\e5cfea908fc0f80487d0b4cacd9262d4.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\e\e5cfea908fc0f80487d0b4cacd9262d4.bin
+    projectPath: Library\ShaderCache\e\e5cfea908fc0f80487d0b4cacd9262d4.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\e\e8063162084b407fb3b394fd039029cd.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\e\e8063162084b407fb3b394fd039029cd.bin
+    projectPath: Library\ShaderCache\e\e8063162084b407fb3b394fd039029cd.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\e\e8795cab5f4df01e9c89d98a5fe7bab0.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\e\e8795cab5f4df01e9c89d98a5fe7bab0.bin
+    projectPath: Library\ShaderCache\e\e8795cab5f4df01e9c89d98a5fe7bab0.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\e\ea4d71e2e4a895023ff18bf0edd435b6.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\e\ea4d71e2e4a895023ff18bf0edd435b6.bin
+    projectPath: Library\ShaderCache\e\ea4d71e2e4a895023ff18bf0edd435b6.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\e\eb212d029c3f9db1897595bf1a81816e.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\e\eb212d029c3f9db1897595bf1a81816e.bin
+    projectPath: Library\ShaderCache\e\eb212d029c3f9db1897595bf1a81816e.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\e\ebdce5cbed610d503bb312de7d4355b8.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\e\ebdce5cbed610d503bb312de7d4355b8.bin
+    projectPath: Library\ShaderCache\e\ebdce5cbed610d503bb312de7d4355b8.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\e\eee0c9b0c437b6254fc50cf9ca28f88b.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\e\eee0c9b0c437b6254fc50cf9ca28f88b.bin
+    projectPath: Library\ShaderCache\e\eee0c9b0c437b6254fc50cf9ca28f88b.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\e\efcafddb34da3c6c9f188a345fe228a4.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\e\efcafddb34da3c6c9f188a345fe228a4.bin
+    projectPath: Library\ShaderCache\e\efcafddb34da3c6c9f188a345fe228a4.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\e\efe11a1b9f10ec1922262889e44e1d24.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\e\efe11a1b9f10ec1922262889e44e1d24.bin
+    projectPath: Library\ShaderCache\e\efe11a1b9f10ec1922262889e44e1d24.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\f\f00be8e9f53c554e0620252271a02c19.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\f\f00be8e9f53c554e0620252271a02c19.bin
+    projectPath: Library\ShaderCache\f\f00be8e9f53c554e0620252271a02c19.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\f\f05a01da0eb4579abe8c1b44ac420ca3.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\f\f05a01da0eb4579abe8c1b44ac420ca3.bin
+    projectPath: Library\ShaderCache\f\f05a01da0eb4579abe8c1b44ac420ca3.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\f\f17cef6916e89242d1c874e2f5302ec0.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\f\f17cef6916e89242d1c874e2f5302ec0.bin
+    projectPath: Library\ShaderCache\f\f17cef6916e89242d1c874e2f5302ec0.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\f\f1e746cbea78d03e04ffe86405ce6a27.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\f\f1e746cbea78d03e04ffe86405ce6a27.bin
+    projectPath: Library\ShaderCache\f\f1e746cbea78d03e04ffe86405ce6a27.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\f\f2d9249ea9baa40a2f0507a17122a260.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\f\f2d9249ea9baa40a2f0507a17122a260.bin
+    projectPath: Library\ShaderCache\f\f2d9249ea9baa40a2f0507a17122a260.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\f\f322393f7077652de2c906a3db83fe17.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\f\f322393f7077652de2c906a3db83fe17.bin
+    projectPath: Library\ShaderCache\f\f322393f7077652de2c906a3db83fe17.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\f\f3da58650e92b84de803962ae4cb496a.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\f\f3da58650e92b84de803962ae4cb496a.bin
+    projectPath: Library\ShaderCache\f\f3da58650e92b84de803962ae4cb496a.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\f\f42de41f8163dfd094c9720d158a5eda.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\f\f42de41f8163dfd094c9720d158a5eda.bin
+    projectPath: Library\ShaderCache\f\f42de41f8163dfd094c9720d158a5eda.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\f\f85e3a9eaece5cc89801949b817411eb.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\f\f85e3a9eaece5cc89801949b817411eb.bin
+    projectPath: Library\ShaderCache\f\f85e3a9eaece5cc89801949b817411eb.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\f\f895063656a47ea01a4a0c4e1fb6ab6c.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\f\f895063656a47ea01a4a0c4e1fb6ab6c.bin
+    projectPath: Library\ShaderCache\f\f895063656a47ea01a4a0c4e1fb6ab6c.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\f\f8cbf8c20b7b990024d734642137e817.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\f\f8cbf8c20b7b990024d734642137e817.bin
+    projectPath: Library\ShaderCache\f\f8cbf8c20b7b990024d734642137e817.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\f\f926bcc99ca72509fd4c3c684db8d71a.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\f\f926bcc99ca72509fd4c3c684db8d71a.bin
+    projectPath: Library\ShaderCache\f\f926bcc99ca72509fd4c3c684db8d71a.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\f\faaa5b673a2e5b3e70209e890e478a7b.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\f\faaa5b673a2e5b3e70209e890e478a7b.bin
+    projectPath: Library\ShaderCache\f\faaa5b673a2e5b3e70209e890e478a7b.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\f\fc24d0e2a7be9bf4e7fbdfdae42701db.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\f\fc24d0e2a7be9bf4e7fbdfdae42701db.bin
+    projectPath: Library\ShaderCache\f\fc24d0e2a7be9bf4e7fbdfdae42701db.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\f\fc8171a56f5aa9301cf8f0ee3f263c32.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\f\fc8171a56f5aa9301cf8f0ee3f263c32.bin
+    projectPath: Library\ShaderCache\f\fc8171a56f5aa9301cf8f0ee3f263c32.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\f\fd324a0e7af58806b8af71add234d609.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\f\fd324a0e7af58806b8af71add234d609.bin
+    projectPath: Library\ShaderCache\f\fd324a0e7af58806b8af71add234d609.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\f\fd7563c2e7494fc8fda9b1e789211e98.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\f\fd7563c2e7494fc8fda9b1e789211e98.bin
+    projectPath: Library\ShaderCache\f\fd7563c2e7494fc8fda9b1e789211e98.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\f\fd902a37268404dc9a6d348272363b77.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\f\fd902a37268404dc9a6d348272363b77.bin
+    projectPath: Library\ShaderCache\f\fd902a37268404dc9a6d348272363b77.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\ShaderCache\f\feef59991b9e49ea615b398e7bfef594.bin
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\f\feef59991b9e49ea615b398e7bfef594.bin
+    projectPath: Library\ShaderCache\f\feef59991b9e49ea615b398e7bfef594.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Library\SpriteAtlasDatabase.asset
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\SpriteAtlasDatabase.asset
+    projectPath: Library\SpriteAtlasDatabase.asset
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Temp\TarGZ\archtemp.tar
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Temp\TarGZ\archtemp.tar
+    projectPath: Temp\TarGZ\archtemp.tar
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Temp\UnityLockfile
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Temp\UnityTempFile-027e3ef6e511808419f1ce13069f93ac
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Temp\UnityTempFile-027e3ef6e511808419f1ce13069f93ac
+    projectPath: Temp\UnityTempFile-027e3ef6e511808419f1ce13069f93ac
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Temp\UnityTempFile-09a51bbf51332d343bf5f8f9004202aa
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Temp\UnityTempFile-09a51bbf51332d343bf5f8f9004202aa
+    projectPath: Temp\UnityTempFile-09a51bbf51332d343bf5f8f9004202aa
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Temp\UnityTempFile-0d8fa1ec82a52774eb5ea2ae1b86f259
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Temp\UnityTempFile-0d8fa1ec82a52774eb5ea2ae1b86f259
+    projectPath: Temp\UnityTempFile-0d8fa1ec82a52774eb5ea2ae1b86f259
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Temp\UnityTempFile-1127ffa099c90e744b9b72961beb4b8d
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Temp\UnityTempFile-1127ffa099c90e744b9b72961beb4b8d
+    projectPath: Temp\UnityTempFile-1127ffa099c90e744b9b72961beb4b8d
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Temp\UnityTempFile-34b67db88b2255a4c9ea008dc99d76a1
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Temp\UnityTempFile-34b67db88b2255a4c9ea008dc99d76a1
+    projectPath: Temp\UnityTempFile-34b67db88b2255a4c9ea008dc99d76a1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Temp\UnityTempFile-3ebbcd4992f84e54eb32ba85f0ea18a7
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Temp\UnityTempFile-3ebbcd4992f84e54eb32ba85f0ea18a7
+    projectPath: Temp\UnityTempFile-3ebbcd4992f84e54eb32ba85f0ea18a7
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Temp\UnityTempFile-652a531bb8c84734e99c3baab9f459eb
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Temp\UnityTempFile-652a531bb8c84734e99c3baab9f459eb
+    projectPath: Temp\UnityTempFile-652a531bb8c84734e99c3baab9f459eb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Temp\UnityTempFile-bcea7b3c7cc900442a36d585fa3d5da3
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Temp\UnityTempFile-bcea7b3c7cc900442a36d585fa3d5da3
+    projectPath: Temp\UnityTempFile-bcea7b3c7cc900442a36d585fa3d5da3
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Temp\UnityTempFile-d4c9f3cf49cfa3f488b342917698bf75
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Temp\UnityTempFile-d4c9f3cf49cfa3f488b342917698bf75
+    projectPath: Temp\UnityTempFile-d4c9f3cf49cfa3f488b342917698bf75
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Temp\UnityTempFile-dd7581c490a613f4cb1fab90afccc7cb
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Temp\UnityTempFile-dd7581c490a613f4cb1fab90afccc7cb
+    projectPath: Temp\UnityTempFile-dd7581c490a613f4cb1fab90afccc7cb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Temp\UnityVS_obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Temp\UnityVS_obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    projectPath: Temp\UnityVS_obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Temp\UnityVS_obj\Debug\Udemy ShootEmUP.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Temp\UnityVS_obj\Debug\Udemy
+      ShootEmUP.csproj.CoreCompileInputs.cache
+    projectPath: Temp\UnityVS_obj\Debug\Udemy ShootEmUP.csproj.CoreCompileInputs.cache
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Udemy ShootEmUP\Temp\UnityVS_obj\Debug\Udemy ShootEmUP.csprojResolveAssemblyReference.cache
+    fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Temp\UnityVS_obj\Debug\Udemy
+      ShootEmUP.csprojResolveAssemblyReference.cache
+    projectPath: Temp\UnityVS_obj\Debug\Udemy ShootEmUP.csprojResolveAssemblyReference.cache
+    originalPath: 
+    status: 1
+    staged: 0

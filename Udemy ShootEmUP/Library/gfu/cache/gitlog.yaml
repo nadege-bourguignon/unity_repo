@@ -1,0 +1,3334 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: bb0f8bce6cf1f134084ddba3a243f58f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2018-04-26T17:47:06.4005262+02:00
+  initializedAtString: 2018-04-26T17:22:47.3928787+02:00
+  log:
+  - commitID: 31a2e606faff129f2defd9ef39caa4c41b276c24
+    mergeA: 
+    mergeB: 
+    authorName: nadege-bourguignon
+    authorEmail: nadegepub@gmail.com
+    commitEmail: nadegepub@gmail.com
+    commitName: nadege-bourguignon
+    summary: project settings
+    description: project settings
+    timeString: 2018-04-26T17:47:05.0000000+02:00
+    commitTimeString: 2018-04-26T17:47:05.0000000+02:00
+    changes:
+    - path: Udemy ShootEmUP\ProjectSettings\AudioManager.asset
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\ProjectSettings\AudioManager.asset
+      projectPath: ProjectSettings\AudioManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\ProjectSettings\ClusterInputManager.asset
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\ProjectSettings\ClusterInputManager.asset
+      projectPath: ProjectSettings\ClusterInputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\ProjectSettings\DynamicsManager.asset
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\ProjectSettings\DynamicsManager.asset
+      projectPath: ProjectSettings\DynamicsManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\ProjectSettings\EditorBuildSettings.asset
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\ProjectSettings\EditorBuildSettings.asset
+      projectPath: ProjectSettings\EditorBuildSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\ProjectSettings\EditorSettings.asset
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\ProjectSettings\EditorSettings.asset
+      projectPath: ProjectSettings\EditorSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\ProjectSettings\GraphicsSettings.asset
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\ProjectSettings\GraphicsSettings.asset
+      projectPath: ProjectSettings\GraphicsSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\ProjectSettings\InputManager.asset
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\ProjectSettings\InputManager.asset
+      projectPath: ProjectSettings\InputManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\ProjectSettings\NetworkManager.asset
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\ProjectSettings\NetworkManager.asset
+      projectPath: ProjectSettings\NetworkManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\ProjectSettings\ProjectVersion.txt
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\ProjectSettings\TagManager.asset
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\ProjectSettings\TimeManager.asset
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 232db1ad3c3b5e4cd9fa1bff541f6d1dc9ea3931
+    mergeA: 
+    mergeB: 
+    authorName: nadege-bourguignon
+    authorEmail: nadegepub@gmail.com
+    commitEmail: nadegepub@gmail.com
+    commitName: nadege-bourguignon
+    summary: assets
+    description: assets
+    timeString: 2018-04-26T17:46:43.0000000+02:00
+    commitTimeString: 2018-04-26T17:46:43.0000000+02:00
+    changes:
+    - path: Udemy ShootEmUP\Assets\Plugins.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\CREDITS.txt
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\CREDITS.txt
+      projectPath: Assets\Plugins\GitHub\Editor\CREDITS.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\CREDITS.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\EULA.txt
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\EULA.txt
+      projectPath: Assets\Plugins\GitHub\Editor\EULA.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\EULA.txt.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\EULA.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\EULA.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ICSharpCode.SharpZipLib.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\Mono.Security.dll
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\Mono.Security.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Security.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Security.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\linux.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\linux.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.md5.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\git-lfs.zip.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\linux\gitconfig.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.md5.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\git-lfs.zip.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\mac\gitconfig.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.md5.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git-lfs.zip.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.md5.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\git.zip.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig.meta
+      projectPath: Assets\Plugins\GitHub\Editor\PlatformResources\windows\gitconfig.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\Resources.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\Resources.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Resources.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\Resources\octorun.zip
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\Resources\octorun.zip
+      projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5
+      projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.md5.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\Resources\octorun.zip.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\Resources\octorun.zip.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Resources\octorun.zip.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Prefabs.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Prefabs.meta
+      projectPath: Assets\Prefabs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Prefabs\asteroid_01_A.prefab
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Prefabs\asteroid_01_A.prefab
+      projectPath: Assets\Prefabs\asteroid_01_A.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Prefabs\asteroid_01_A.prefab.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Prefabs\asteroid_01_A.prefab.meta
+      projectPath: Assets\Prefabs\asteroid_01_A.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Prefabs\asteroid_01_B.prefab
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Prefabs\asteroid_01_B.prefab
+      projectPath: Assets\Prefabs\asteroid_01_B.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Prefabs\asteroid_01_B.prefab.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Prefabs\asteroid_01_B.prefab.meta
+      projectPath: Assets\Prefabs\asteroid_01_B.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Prefabs\spaceship.prefab
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Prefabs\spaceship.prefab
+      projectPath: Assets\Prefabs\spaceship.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Prefabs\spaceship.prefab.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Prefabs\spaceship.prefab.meta
+      projectPath: Assets\Prefabs\spaceship.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Scenes\proto.unity
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Scenes\proto.unity
+      projectPath: Assets\Scenes\proto.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Scripts.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Scripts.meta
+      projectPath: Assets\Scripts.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Scripts\SimpleShipController.cs
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Scripts\SimpleShipController.cs
+      projectPath: Assets\Scripts\SimpleShipController.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Scripts\SimpleShipController.cs.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Scripts\SimpleShipController.cs.meta
+      projectPath: Assets\Scripts\SimpleShipController.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 8edfb0a2da3a2fb9fd8caec5af017a32a43710c6
+    mergeA: 
+    mergeB: 
+    authorName: nadege-bourguignon
+    authorEmail: nadegepub@gmail.com
+    commitEmail: nadegepub@gmail.com
+    commitName: nadege-bourguignon
+    summary: csproj
+    description: csproj
+    timeString: 2018-04-26T17:46:12.0000000+02:00
+    commitTimeString: 2018-04-26T17:46:12.0000000+02:00
+    changes:
+    - path: Udemy ShootEmUP\Udemy ShootEmUP.Editor.Plugins.csproj
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Udemy ShootEmUP.Editor.Plugins.csproj
+      projectPath: Udemy ShootEmUP.Editor.Plugins.csproj
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Udemy ShootEmUP.Plugins.csproj
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Udemy ShootEmUP.Plugins.csproj
+      projectPath: Udemy ShootEmUP.Plugins.csproj
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Udemy ShootEmUP.sln
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Udemy ShootEmUP.sln
+      projectPath: Udemy ShootEmUP.sln
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 7078f0fcf02af9ac35b2c0ebe140b3befb95cee4
+    mergeA: 
+    mergeB: 
+    authorName: nadege-bourguignon
+    authorEmail: nadegepub@gmail.com
+    commitEmail: nadegepub@gmail.com
+    commitName: nadege-bourguignon
+    summary: csproj
+    description: csproj
+    timeString: 2018-04-26T17:45:57.0000000+02:00
+    commitTimeString: 2018-04-26T17:45:57.0000000+02:00
+    changes:
+    - path: Udemy ShootEmUP\Udemy ShootEmUP.csproj
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Udemy ShootEmUP.csproj
+      projectPath: Udemy ShootEmUP.csproj
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: ec77764a45fec8ca7fdf0dbe351c860b15be004a
+    mergeA: 
+    mergeB: 
+    authorName: nadege-bourguignon
+    authorEmail: nadegepub@gmail.com
+    commitEmail: nadegepub@gmail.com
+    commitName: nadege-bourguignon
+    summary: Commit 1
+    description: Commit 1
+    timeString: 2018-04-26T16:47:16.0000000+02:00
+    commitTimeString: 2018-04-26T16:47:16.0000000+02:00
+    changes:
+    - path: Udemy ShootEmUP\Assets\Animations.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Animations.meta
+      projectPath: Assets\Animations.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Animations\SpriteSheets.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Animations\SpriteSheets.meta
+      projectPath: Assets\Animations\SpriteSheets.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Animations\SpriteSheets\Asteroid01_a.anim
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Animations\SpriteSheets\Asteroid01_a.anim
+      projectPath: Assets\Animations\SpriteSheets\Asteroid01_a.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Animations\SpriteSheets\Asteroid01_a.anim.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Animations\SpriteSheets\Asteroid01_a.anim.meta
+      projectPath: Assets\Animations\SpriteSheets\Asteroid01_a.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Animations\SpriteSheets\Asteroid01_b.anim
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Animations\SpriteSheets\Asteroid01_b.anim
+      projectPath: Assets\Animations\SpriteSheets\Asteroid01_b.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Animations\SpriteSheets\Asteroid01_b.anim.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Animations\SpriteSheets\Asteroid01_b.anim.meta
+      projectPath: Assets\Animations\SpriteSheets\Asteroid01_b.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Animations\SpriteSheets\Fire1_25.anim
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Animations\SpriteSheets\Fire1_25.anim
+      projectPath: Assets\Animations\SpriteSheets\Fire1_25.anim
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Animations\SpriteSheets\Fire1_25.anim.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Animations\SpriteSheets\Fire1_25.anim.meta
+      projectPath: Assets\Animations\SpriteSheets\Fire1_25.anim.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Animations\SpriteSheets\asteroid_01_0.controller
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Animations\SpriteSheets\asteroid_01_0.controller
+      projectPath: Assets\Animations\SpriteSheets\asteroid_01_0.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Animations\SpriteSheets\asteroid_01_0.controller.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Animations\SpriteSheets\asteroid_01_0.controller.meta
+      projectPath: Assets\Animations\SpriteSheets\asteroid_01_0.controller.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Animations\SpriteSheets\asteroid_01_32.controller
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Animations\SpriteSheets\asteroid_01_32.controller
+      projectPath: Assets\Animations\SpriteSheets\asteroid_01_32.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Animations\SpriteSheets\asteroid_01_32.controller.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Animations\SpriteSheets\asteroid_01_32.controller.meta
+      projectPath: Assets\Animations\SpriteSheets\asteroid_01_32.controller.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Animations\SpriteSheets\fire1_ 14.controller
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Animations\SpriteSheets\fire1_
+        14.controller
+      projectPath: Assets\Animations\SpriteSheets\fire1_ 14.controller
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Animations\SpriteSheets\fire1_ 14.controller.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Animations\SpriteSheets\fire1_
+        14.controller.meta
+      projectPath: Assets\Animations\SpriteSheets\fire1_ 14.controller.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Scenes.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Scenes.meta
+      projectPath: Assets\Scenes.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Scenes\proto.unity
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Scenes\proto.unity
+      projectPath: Assets\Scenes\proto.unity
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Scenes\proto.unity.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Scenes\proto.unity.meta
+      projectPath: Assets\Scenes\proto.unity.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites.meta
+      projectPath: Assets\Sprites.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\.DS_Store
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\.DS_Store
+      projectPath: Assets\Sprites\.DS_Store
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Asteroids.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Asteroids.meta
+      projectPath: Assets\Sprites\Asteroids.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Asteroids\asteroid_01.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Asteroids\asteroid_01.png
+      projectPath: Assets\Sprites\Asteroids\asteroid_01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Asteroids\asteroid_01.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Asteroids\asteroid_01.png.meta
+      projectPath: Assets\Sprites\Asteroids\asteroid_01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Backgrounds.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Backgrounds.meta
+      projectPath: Assets\Sprites\Backgrounds.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-40-17-86.jpg
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-40-17-86.jpg
+      projectPath: Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-40-17-86.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-40-17-86.jpg.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-40-17-86.jpg.meta
+      projectPath: Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-40-17-86.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-41-02-47.jpg
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-41-02-47.jpg
+      projectPath: Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-41-02-47.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-41-02-47.jpg.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-41-02-47.jpg.meta
+      projectPath: Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-41-02-47.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-41-14-69.jpg
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-41-14-69.jpg
+      projectPath: Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-41-14-69.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-41-14-69.jpg.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-41-14-69.jpg.meta
+      projectPath: Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-41-14-69.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-41-26-59.jpg
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-41-26-59.jpg
+      projectPath: Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-41-26-59.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-41-26-59.jpg.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-41-26-59.jpg.meta
+      projectPath: Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-41-26-59.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-41-43-84.jpg
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-41-43-84.jpg
+      projectPath: Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-41-43-84.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-41-43-84.jpg.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-41-43-84.jpg.meta
+      projectPath: Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-41-43-84.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-42-08-81.jpg
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-42-08-81.jpg
+      projectPath: Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-42-08-81.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-42-08-81.jpg.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-42-08-81.jpg.meta
+      projectPath: Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-42-08-81.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-42-26-55.jpg
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-42-26-55.jpg
+      projectPath: Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-42-26-55.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-42-26-55.jpg.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-42-26-55.jpg.meta
+      projectPath: Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-42-26-55.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-42-37-40.jpg
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-42-37-40.jpg
+      projectPath: Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-42-37-40.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-42-37-40.jpg.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-42-37-40.jpg.meta
+      projectPath: Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-42-37-40.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-42-46-54.jpg
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-42-46-54.jpg
+      projectPath: Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-42-46-54.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-42-46-54.jpg.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-42-46-54.jpg.meta
+      projectPath: Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-42-46-54.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-43-11-55.jpg
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-43-11-55.jpg
+      projectPath: Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-43-11-55.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-43-11-55.jpg.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-43-11-55.jpg.meta
+      projectPath: Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-43-11-55.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-43-22-73.jpg
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-43-22-73.jpg
+      projectPath: Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-43-22-73.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-43-22-73.jpg.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-43-22-73.jpg.meta
+      projectPath: Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-43-22-73.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-43-45-03.jpg
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-43-45-03.jpg
+      projectPath: Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-43-45-03.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-43-45-03.jpg.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-43-45-03.jpg.meta
+      projectPath: Assets\Sprites\Backgrounds\Gods-and-Idols-2012-04-11-21-43-45-03.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships.meta
+      projectPath: Assets\Sprites\Spaceships.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\.DS_Store
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\.DS_Store
+      projectPath: Assets\Sprites\Spaceships\.DS_Store
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames.meta
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        01.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 01.png
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 01.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        01.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 01.png.meta
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 01.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        02.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 02.png
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 02.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        02.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 02.png.meta
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 02.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        03.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 03.png
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 03.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        03.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 03.png.meta
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 03.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        04.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 04.png
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 04.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        04.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 04.png.meta
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 04.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        05.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 05.png
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 05.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        05.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 05.png.meta
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 05.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        06.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 06.png
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 06.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        06.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 06.png.meta
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 06.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        07.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 07.png
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 07.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        07.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 07.png.meta
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 07.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        08.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 08.png
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 08.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        08.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 08.png.meta
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 08.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        09.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 09.png
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 09.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        09.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 09.png.meta
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 09.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        10.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 10.png
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 10.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        10.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 10.png.meta
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 10.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        11.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 11.png
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 11.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        11.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 11.png.meta
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 11.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        12.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 12.png
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 12.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        12.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 12.png.meta
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 12.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        13.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 13.png
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 13.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        13.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 13.png.meta
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 13.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        14.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 14.png
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 14.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        14.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 14.png.meta
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 14.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        15.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 15.png
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 15.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        15.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 15.png.meta
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 15.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        16.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 16.png
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 16.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        16.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 16.png.meta
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 16.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        17.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 17.png
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 17.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        17.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 17.png.meta
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 17.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        18.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 18.png
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 18.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        18.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 18.png.meta
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 18.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        19.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 19.png
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 19.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        19.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 19.png.meta
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 19.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        20.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 20.png
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 20.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        20.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 20.png.meta
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 20.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        21.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 21.png
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 21.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        21.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 21.png.meta
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 21.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        22.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 22.png
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 22.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        22.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 22.png.meta
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 22.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        23.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 23.png
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 23.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        23.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 23.png.meta
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 23.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        24.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 24.png
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 24.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        24.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 24.png.meta
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 24.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        25.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 25.png
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 25.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_
+        25.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\FireLoop1-128x128-25
+        frames\fire1_ 25.png.meta
+      projectPath: Assets\Sprites\Spaceships\FireLoop1-128x128-25 frames\fire1_ 25.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector.meta
+      projectPath: Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\.DS_Store
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\.DS_Store
+      projectPath: Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\.DS_Store
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\Credits.txt
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\Credits.txt
+      projectPath: Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\Credits.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\Credits.txt.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\Credits.txt.meta
+      projectPath: Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\Credits.txt.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0001.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0001.png
+      projectPath: Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0001.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0001.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0001.png.meta
+      projectPath: Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0001.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0002.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0002.png
+      projectPath: Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0002.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0002.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0002.png.meta
+      projectPath: Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0002.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0003.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0003.png
+      projectPath: Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0003.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0003.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0003.png.meta
+      projectPath: Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0003.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0004.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0004.png
+      projectPath: Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0004.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0004.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0004.png.meta
+      projectPath: Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0004.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0005.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0005.png
+      projectPath: Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0005.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0005.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0005.png.meta
+      projectPath: Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0005.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0006.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0006.png
+      projectPath: Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0006.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0006.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0006.png.meta
+      projectPath: Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0006.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0007.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0007.png
+      projectPath: Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0007.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0007.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0007.png.meta
+      projectPath: Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0007.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0008.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0008.png
+      projectPath: Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0008.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0008.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0008.png.meta
+      projectPath: Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0008.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0009.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0009.png
+      projectPath: Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0009.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0009.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0009.png.meta
+      projectPath: Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0009.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0010.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0010.png
+      projectPath: Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0010.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0010.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0010.png.meta
+      projectPath: Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0010.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0011.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0011.png
+      projectPath: Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0011.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0011.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0011.png.meta
+      projectPath: Assets\Sprites\Spaceships\Smallfighter-spaceship-by-MillionthVector\smallfighter0011.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Stellar Objects.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Stellar
+        Objects.meta
+      projectPath: Assets\Sprites\Stellar Objects.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Stellar Objects\.DS_Store
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Stellar
+        Objects\.DS_Store
+      projectPath: Assets\Sprites\Stellar Objects\.DS_Store
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Stellar Objects\jupiter2-240x240.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Stellar
+        Objects\jupiter2-240x240.png
+      projectPath: Assets\Sprites\Stellar Objects\jupiter2-240x240.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Stellar Objects\jupiter2-240x240.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Stellar
+        Objects\jupiter2-240x240.png.meta
+      projectPath: Assets\Sprites\Stellar Objects\jupiter2-240x240.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Stellar Objects\jupiter3-229x240.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Stellar
+        Objects\jupiter3-229x240.png
+      projectPath: Assets\Sprites\Stellar Objects\jupiter3-229x240.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Stellar Objects\jupiter3-229x240.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Stellar
+        Objects\jupiter3-229x240.png.meta
+      projectPath: Assets\Sprites\Stellar Objects\jupiter3-229x240.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Stellar Objects\moon-300x296.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Stellar
+        Objects\moon-300x296.png
+      projectPath: Assets\Sprites\Stellar Objects\moon-300x296.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Stellar Objects\moon-300x296.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Stellar
+        Objects\moon-300x296.png.meta
+      projectPath: Assets\Sprites\Stellar Objects\moon-300x296.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Stellar Objects\moon3-300x300.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Stellar
+        Objects\moon3-300x300.png
+      projectPath: Assets\Sprites\Stellar Objects\moon3-300x300.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Stellar Objects\moon3-300x300.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Stellar
+        Objects\moon3-300x300.png.meta
+      projectPath: Assets\Sprites\Stellar Objects\moon3-300x300.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Stellar Objects\moon5-237x240.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Stellar
+        Objects\moon5-237x240.png
+      projectPath: Assets\Sprites\Stellar Objects\moon5-237x240.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Stellar Objects\moon5-237x240.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Stellar
+        Objects\moon5-237x240.png.meta
+      projectPath: Assets\Sprites\Stellar Objects\moon5-237x240.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Stellar Objects\neptune2-240x240.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Stellar
+        Objects\neptune2-240x240.png
+      projectPath: Assets\Sprites\Stellar Objects\neptune2-240x240.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Stellar Objects\neptune2-240x240.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Stellar
+        Objects\neptune2-240x240.png.meta
+      projectPath: Assets\Sprites\Stellar Objects\neptune2-240x240.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Stellar Objects\saturn6-240x199.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Stellar
+        Objects\saturn6-240x199.png
+      projectPath: Assets\Sprites\Stellar Objects\saturn6-240x199.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Stellar Objects\saturn6-240x199.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Stellar
+        Objects\saturn6-240x199.png.meta
+      projectPath: Assets\Sprites\Stellar Objects\saturn6-240x199.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Stellar Objects\saturn7-240x135.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Stellar
+        Objects\saturn7-240x135.png
+      projectPath: Assets\Sprites\Stellar Objects\saturn7-240x135.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Stellar Objects\saturn7-240x135.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Stellar
+        Objects\saturn7-240x135.png.meta
+      projectPath: Assets\Sprites\Stellar Objects\saturn7-240x135.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Stellar Objects\uranus2-240x151.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Stellar
+        Objects\uranus2-240x151.png
+      projectPath: Assets\Sprites\Stellar Objects\uranus2-240x151.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Stellar Objects\uranus2-240x151.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Stellar
+        Objects\uranus2-240x151.png.meta
+      projectPath: Assets\Sprites\Stellar Objects\uranus2-240x151.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Weapons.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Weapons.meta
+      projectPath: Assets\Sprites\Weapons.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Weapons\.DS_Store
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Weapons\.DS_Store
+      projectPath: Assets\Sprites\Weapons\.DS_Store
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Weapons\rocket animated.png
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Weapons\rocket
+        animated.png
+      projectPath: Assets\Sprites\Weapons\rocket animated.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Assets\Sprites\Weapons\rocket animated.png.meta
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Assets\Sprites\Weapons\rocket
+        animated.png.meta
+      projectPath: Assets\Sprites\Weapons\rocket animated.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\AnnotationManager
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\AnnotationManager
+      projectPath: Library\AnnotationManager
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\AssetImportState
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\AssetImportState
+      projectPath: Library\AssetImportState
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\BuildPlayer.prefs
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\BuildPlayer.prefs
+      projectPath: Library\BuildPlayer.prefs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\BuildSettings.asset
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\BuildSettings.asset
+      projectPath: Library\BuildSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\CurrentLayout.dwlt
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\EditorInstance.json
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\EditorUserBuildSettings.asset
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\EditorUserBuildSettings.asset
+      projectPath: Library\EditorUserBuildSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\EditorUserSettings.asset
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\EditorUserSettings.asset
+      projectPath: Library\EditorUserSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\LastSceneManagerSetup.txt
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\LastSceneManagerSetup.txt
+      projectPath: Library\LastSceneManagerSetup.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\LibraryFormatVersion.txt
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\LibraryFormatVersion.txt
+      projectPath: Library\LibraryFormatVersion.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\MonoManager.asset
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\MonoManager.asset
+      projectPath: Library\MonoManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ProjectSettings.asset
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ProjectSettings.asset
+      projectPath: Library\ProjectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ScriptMapper
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ScriptMapper
+      projectPath: Library\ScriptMapper
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache.db
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache.db
+      projectPath: Library\ShaderCache.db
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\0\0066f94e1cc5cac2c5f637e514471d4c.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\0\0066f94e1cc5cac2c5f637e514471d4c.bin
+      projectPath: Library\ShaderCache\0\0066f94e1cc5cac2c5f637e514471d4c.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\0\036ab6427522e922fcd6a18530c6c918.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\0\036ab6427522e922fcd6a18530c6c918.bin
+      projectPath: Library\ShaderCache\0\036ab6427522e922fcd6a18530c6c918.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\0\0421b97b5ebf2126817d6b2575c80350.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\0\0421b97b5ebf2126817d6b2575c80350.bin
+      projectPath: Library\ShaderCache\0\0421b97b5ebf2126817d6b2575c80350.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\0\049d14e353fc9db04335ca8254cff838.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\0\049d14e353fc9db04335ca8254cff838.bin
+      projectPath: Library\ShaderCache\0\049d14e353fc9db04335ca8254cff838.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\0\04a58d0eef2a42af315f957b7ff872f1.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\0\04a58d0eef2a42af315f957b7ff872f1.bin
+      projectPath: Library\ShaderCache\0\04a58d0eef2a42af315f957b7ff872f1.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\0\053b8d22cd571d9a9c5c05fdf79464d4.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\0\053b8d22cd571d9a9c5c05fdf79464d4.bin
+      projectPath: Library\ShaderCache\0\053b8d22cd571d9a9c5c05fdf79464d4.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\0\058ab41151ab49719c4c2b4d6162c0e8.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\0\058ab41151ab49719c4c2b4d6162c0e8.bin
+      projectPath: Library\ShaderCache\0\058ab41151ab49719c4c2b4d6162c0e8.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\0\07493265d613be699b7fd778316035f9.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\0\07493265d613be699b7fd778316035f9.bin
+      projectPath: Library\ShaderCache\0\07493265d613be699b7fd778316035f9.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\0\080d1594ad75b75ab1e324acbda7b483.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\0\080d1594ad75b75ab1e324acbda7b483.bin
+      projectPath: Library\ShaderCache\0\080d1594ad75b75ab1e324acbda7b483.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\0\084811136f597e35a253edcdce448dcc.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\0\084811136f597e35a253edcdce448dcc.bin
+      projectPath: Library\ShaderCache\0\084811136f597e35a253edcdce448dcc.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\0\0850c8fc2fb03814bc3ee8d58743e76b.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\0\0850c8fc2fb03814bc3ee8d58743e76b.bin
+      projectPath: Library\ShaderCache\0\0850c8fc2fb03814bc3ee8d58743e76b.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\0\09d3448204be02eedeafb2e60dfe71ae.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\0\09d3448204be02eedeafb2e60dfe71ae.bin
+      projectPath: Library\ShaderCache\0\09d3448204be02eedeafb2e60dfe71ae.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\0\0ae858f339b47d659dec87b1a9de7865.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\0\0ae858f339b47d659dec87b1a9de7865.bin
+      projectPath: Library\ShaderCache\0\0ae858f339b47d659dec87b1a9de7865.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\0\0ba39c07321980b9d49b84961a6e8fc2.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\0\0ba39c07321980b9d49b84961a6e8fc2.bin
+      projectPath: Library\ShaderCache\0\0ba39c07321980b9d49b84961a6e8fc2.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\0\0dc421604e69f36798f2f76fec9416ed.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\0\0dc421604e69f36798f2f76fec9416ed.bin
+      projectPath: Library\ShaderCache\0\0dc421604e69f36798f2f76fec9416ed.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\0\0dc6f66fc38a11abc0eee225038ead35.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\0\0dc6f66fc38a11abc0eee225038ead35.bin
+      projectPath: Library\ShaderCache\0\0dc6f66fc38a11abc0eee225038ead35.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\0\0ec3e7637241942a2032c4e8b37b6956.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\0\0ec3e7637241942a2032c4e8b37b6956.bin
+      projectPath: Library\ShaderCache\0\0ec3e7637241942a2032c4e8b37b6956.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\0\0f526e79ff59a0937d46f5c3a3d0a3a5.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\0\0f526e79ff59a0937d46f5c3a3d0a3a5.bin
+      projectPath: Library\ShaderCache\0\0f526e79ff59a0937d46f5c3a3d0a3a5.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\0\0f6f99b7b182a0ede5f2ce2bcd3147b4.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\0\0f6f99b7b182a0ede5f2ce2bcd3147b4.bin
+      projectPath: Library\ShaderCache\0\0f6f99b7b182a0ede5f2ce2bcd3147b4.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\1\10079e347863a9ee7f1a82d38dd1a036.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\1\10079e347863a9ee7f1a82d38dd1a036.bin
+      projectPath: Library\ShaderCache\1\10079e347863a9ee7f1a82d38dd1a036.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\1\128f4d3b88da1b6c594b3bf58f5ec92a.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\1\128f4d3b88da1b6c594b3bf58f5ec92a.bin
+      projectPath: Library\ShaderCache\1\128f4d3b88da1b6c594b3bf58f5ec92a.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\1\1375f8b50bd485f016f29d2da0ff428b.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\1\1375f8b50bd485f016f29d2da0ff428b.bin
+      projectPath: Library\ShaderCache\1\1375f8b50bd485f016f29d2da0ff428b.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\1\1462c802d9d229440d702e85e695a37a.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\1\1462c802d9d229440d702e85e695a37a.bin
+      projectPath: Library\ShaderCache\1\1462c802d9d229440d702e85e695a37a.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\1\157b0ebf7bbaa44ee8e1c7ea3c9b355d.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\1\157b0ebf7bbaa44ee8e1c7ea3c9b355d.bin
+      projectPath: Library\ShaderCache\1\157b0ebf7bbaa44ee8e1c7ea3c9b355d.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\1\161f4e4e3f1c8f8630a3831a6f4f2538.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\1\161f4e4e3f1c8f8630a3831a6f4f2538.bin
+      projectPath: Library\ShaderCache\1\161f4e4e3f1c8f8630a3831a6f4f2538.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\1\179a211d29d32988c763257805e8ee65.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\1\179a211d29d32988c763257805e8ee65.bin
+      projectPath: Library\ShaderCache\1\179a211d29d32988c763257805e8ee65.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\1\17ad46b19a718e5281ab3bd6bd86908e.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\1\17ad46b19a718e5281ab3bd6bd86908e.bin
+      projectPath: Library\ShaderCache\1\17ad46b19a718e5281ab3bd6bd86908e.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\1\189662316bb92465cd44eeb53ff269bb.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\1\189662316bb92465cd44eeb53ff269bb.bin
+      projectPath: Library\ShaderCache\1\189662316bb92465cd44eeb53ff269bb.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\1\1a4ff1814cc20ddabb482b4cc6f6f860.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\1\1a4ff1814cc20ddabb482b4cc6f6f860.bin
+      projectPath: Library\ShaderCache\1\1a4ff1814cc20ddabb482b4cc6f6f860.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\1\1a8f5c486cd7afc9bdf1ad93f327c6d7.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\1\1a8f5c486cd7afc9bdf1ad93f327c6d7.bin
+      projectPath: Library\ShaderCache\1\1a8f5c486cd7afc9bdf1ad93f327c6d7.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\1\1d09d306897531f4f46d0acc898089bd.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\1\1d09d306897531f4f46d0acc898089bd.bin
+      projectPath: Library\ShaderCache\1\1d09d306897531f4f46d0acc898089bd.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\1\1d4f157288b7d9bd945886e294d51df8.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\1\1d4f157288b7d9bd945886e294d51df8.bin
+      projectPath: Library\ShaderCache\1\1d4f157288b7d9bd945886e294d51df8.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\1\1d6cc2d32915de6eecb77707273848c7.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\1\1d6cc2d32915de6eecb77707273848c7.bin
+      projectPath: Library\ShaderCache\1\1d6cc2d32915de6eecb77707273848c7.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\1\1dc09f3fbbb6e1e177296e0cec478da7.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\1\1dc09f3fbbb6e1e177296e0cec478da7.bin
+      projectPath: Library\ShaderCache\1\1dc09f3fbbb6e1e177296e0cec478da7.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\1\1dff586b924e689e248c453cb500f6e2.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\1\1dff586b924e689e248c453cb500f6e2.bin
+      projectPath: Library\ShaderCache\1\1dff586b924e689e248c453cb500f6e2.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\1\1f45fc34181140004dcdca8e3fec16e6.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\1\1f45fc34181140004dcdca8e3fec16e6.bin
+      projectPath: Library\ShaderCache\1\1f45fc34181140004dcdca8e3fec16e6.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\2\20316ed0556a347ed73bec376bfed8d1.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\2\20316ed0556a347ed73bec376bfed8d1.bin
+      projectPath: Library\ShaderCache\2\20316ed0556a347ed73bec376bfed8d1.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\2\2259d4b270a257920b6ee4fe49e376f7.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\2\2259d4b270a257920b6ee4fe49e376f7.bin
+      projectPath: Library\ShaderCache\2\2259d4b270a257920b6ee4fe49e376f7.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\2\22f5ee8efb27f1a8eb45888e6259d056.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\2\22f5ee8efb27f1a8eb45888e6259d056.bin
+      projectPath: Library\ShaderCache\2\22f5ee8efb27f1a8eb45888e6259d056.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\2\239650cade379b535cdd1de74c18e829.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\2\239650cade379b535cdd1de74c18e829.bin
+      projectPath: Library\ShaderCache\2\239650cade379b535cdd1de74c18e829.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\2\23ad02aa44728656e7e9e714e089b1d4.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\2\23ad02aa44728656e7e9e714e089b1d4.bin
+      projectPath: Library\ShaderCache\2\23ad02aa44728656e7e9e714e089b1d4.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\2\23f8203e01059e812129887e13ad2c70.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\2\23f8203e01059e812129887e13ad2c70.bin
+      projectPath: Library\ShaderCache\2\23f8203e01059e812129887e13ad2c70.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\2\2485545d96bf9ce9de70e883a4108ca9.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\2\2485545d96bf9ce9de70e883a4108ca9.bin
+      projectPath: Library\ShaderCache\2\2485545d96bf9ce9de70e883a4108ca9.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\2\24888cf0e44f596f80cbbfc5e8e59348.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\2\24888cf0e44f596f80cbbfc5e8e59348.bin
+      projectPath: Library\ShaderCache\2\24888cf0e44f596f80cbbfc5e8e59348.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\2\2590bdb3050d7079b476ea54dabc298e.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\2\2590bdb3050d7079b476ea54dabc298e.bin
+      projectPath: Library\ShaderCache\2\2590bdb3050d7079b476ea54dabc298e.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\2\261bee5ce01f24d8f13fc6f50714323c.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\2\261bee5ce01f24d8f13fc6f50714323c.bin
+      projectPath: Library\ShaderCache\2\261bee5ce01f24d8f13fc6f50714323c.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\2\2aadeb684b08945ad3f760906ab96b2b.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\2\2aadeb684b08945ad3f760906ab96b2b.bin
+      projectPath: Library\ShaderCache\2\2aadeb684b08945ad3f760906ab96b2b.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\2\2ac60702c41b8fd7161a655b8101ece1.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\2\2ac60702c41b8fd7161a655b8101ece1.bin
+      projectPath: Library\ShaderCache\2\2ac60702c41b8fd7161a655b8101ece1.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\2\2b0746344e387b6ab0c35365d7dd0141.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\2\2b0746344e387b6ab0c35365d7dd0141.bin
+      projectPath: Library\ShaderCache\2\2b0746344e387b6ab0c35365d7dd0141.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\2\2c4b26c31a52912dd2bdf1b4085d9815.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\2\2c4b26c31a52912dd2bdf1b4085d9815.bin
+      projectPath: Library\ShaderCache\2\2c4b26c31a52912dd2bdf1b4085d9815.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\2\2df1135e886a8744a073fc2bdd516d56.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\2\2df1135e886a8744a073fc2bdd516d56.bin
+      projectPath: Library\ShaderCache\2\2df1135e886a8744a073fc2bdd516d56.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\2\2e325ff414fca873638f5f94b30add05.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\2\2e325ff414fca873638f5f94b30add05.bin
+      projectPath: Library\ShaderCache\2\2e325ff414fca873638f5f94b30add05.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\3\301ffda30c6b1d4673b22ad286693a5f.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\3\301ffda30c6b1d4673b22ad286693a5f.bin
+      projectPath: Library\ShaderCache\3\301ffda30c6b1d4673b22ad286693a5f.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\3\332bb6cfd11ef2c1a8539c4068157aa8.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\3\332bb6cfd11ef2c1a8539c4068157aa8.bin
+      projectPath: Library\ShaderCache\3\332bb6cfd11ef2c1a8539c4068157aa8.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\3\335644171fabaf4d001aed0add80ad78.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\3\335644171fabaf4d001aed0add80ad78.bin
+      projectPath: Library\ShaderCache\3\335644171fabaf4d001aed0add80ad78.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\3\33bef4a76300951649f19100362f45ba.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\3\33bef4a76300951649f19100362f45ba.bin
+      projectPath: Library\ShaderCache\3\33bef4a76300951649f19100362f45ba.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\3\34a76aac4650a261f2ccb92edf628c1b.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\3\34a76aac4650a261f2ccb92edf628c1b.bin
+      projectPath: Library\ShaderCache\3\34a76aac4650a261f2ccb92edf628c1b.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\3\34b300f56a3142fa49d2544745b10c58.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\3\34b300f56a3142fa49d2544745b10c58.bin
+      projectPath: Library\ShaderCache\3\34b300f56a3142fa49d2544745b10c58.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\3\35d1cbdfbdba3aef82fe04aef11e6f40.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\3\35d1cbdfbdba3aef82fe04aef11e6f40.bin
+      projectPath: Library\ShaderCache\3\35d1cbdfbdba3aef82fe04aef11e6f40.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\3\372d89bd355a9cee7b060a03cb01c106.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\3\372d89bd355a9cee7b060a03cb01c106.bin
+      projectPath: Library\ShaderCache\3\372d89bd355a9cee7b060a03cb01c106.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\3\3a3bfd4bc66327a7881779ac56cd0636.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\3\3a3bfd4bc66327a7881779ac56cd0636.bin
+      projectPath: Library\ShaderCache\3\3a3bfd4bc66327a7881779ac56cd0636.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\3\3bb7f5181e74f39d9f55be71038e82f3.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\3\3bb7f5181e74f39d9f55be71038e82f3.bin
+      projectPath: Library\ShaderCache\3\3bb7f5181e74f39d9f55be71038e82f3.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\3\3bc27385e89f04c01b11103044fcb5f0.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\3\3bc27385e89f04c01b11103044fcb5f0.bin
+      projectPath: Library\ShaderCache\3\3bc27385e89f04c01b11103044fcb5f0.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\3\3dd8299ab118876654ddfc90c93db35f.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\3\3dd8299ab118876654ddfc90c93db35f.bin
+      projectPath: Library\ShaderCache\3\3dd8299ab118876654ddfc90c93db35f.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\3\3deb2e034fd8b5ce9615a097d5781677.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\3\3deb2e034fd8b5ce9615a097d5781677.bin
+      projectPath: Library\ShaderCache\3\3deb2e034fd8b5ce9615a097d5781677.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\3\3e4bcba23fe6e611378192a4a32b30a2.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\3\3e4bcba23fe6e611378192a4a32b30a2.bin
+      projectPath: Library\ShaderCache\3\3e4bcba23fe6e611378192a4a32b30a2.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\3\3e76bc5ba117ba8f6a6d74914e6103e0.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\3\3e76bc5ba117ba8f6a6d74914e6103e0.bin
+      projectPath: Library\ShaderCache\3\3e76bc5ba117ba8f6a6d74914e6103e0.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\3\3e7c60c70ca788a6c49cdf22cdc57552.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\3\3e7c60c70ca788a6c49cdf22cdc57552.bin
+      projectPath: Library\ShaderCache\3\3e7c60c70ca788a6c49cdf22cdc57552.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\3\3fb69c49fa222b4fd8fba6ab3936949f.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\3\3fb69c49fa222b4fd8fba6ab3936949f.bin
+      projectPath: Library\ShaderCache\3\3fb69c49fa222b4fd8fba6ab3936949f.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\3\3fbfc97dfd73caddee662938c91ea69b.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\3\3fbfc97dfd73caddee662938c91ea69b.bin
+      projectPath: Library\ShaderCache\3\3fbfc97dfd73caddee662938c91ea69b.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\4\410e6d8d621894fba871c6d5de3bfb74.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\4\410e6d8d621894fba871c6d5de3bfb74.bin
+      projectPath: Library\ShaderCache\4\410e6d8d621894fba871c6d5de3bfb74.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\4\41d9d04d698c5f4909eaba11b53b597f.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\4\41d9d04d698c5f4909eaba11b53b597f.bin
+      projectPath: Library\ShaderCache\4\41d9d04d698c5f4909eaba11b53b597f.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\4\43320f3921941601832d51a65d031757.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\4\43320f3921941601832d51a65d031757.bin
+      projectPath: Library\ShaderCache\4\43320f3921941601832d51a65d031757.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\4\434904a17f652858222193c319172704.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\4\434904a17f652858222193c319172704.bin
+      projectPath: Library\ShaderCache\4\434904a17f652858222193c319172704.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\4\436fb5184d19a366e9a88a54382eb557.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\4\436fb5184d19a366e9a88a54382eb557.bin
+      projectPath: Library\ShaderCache\4\436fb5184d19a366e9a88a54382eb557.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\4\43807b17baa9f8c10654d4f5f53394ac.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\4\43807b17baa9f8c10654d4f5f53394ac.bin
+      projectPath: Library\ShaderCache\4\43807b17baa9f8c10654d4f5f53394ac.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\4\43ab19e1d7b30cd5fbf6e65fa9551308.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\4\43ab19e1d7b30cd5fbf6e65fa9551308.bin
+      projectPath: Library\ShaderCache\4\43ab19e1d7b30cd5fbf6e65fa9551308.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\4\43f26e8d42db69be647c0f44b8883a39.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\4\43f26e8d42db69be647c0f44b8883a39.bin
+      projectPath: Library\ShaderCache\4\43f26e8d42db69be647c0f44b8883a39.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\4\4466da6c4385b14641ebf4f115315952.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\4\4466da6c4385b14641ebf4f115315952.bin
+      projectPath: Library\ShaderCache\4\4466da6c4385b14641ebf4f115315952.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\4\4567f57af31da06ba1cfd9272605df4b.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\4\4567f57af31da06ba1cfd9272605df4b.bin
+      projectPath: Library\ShaderCache\4\4567f57af31da06ba1cfd9272605df4b.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\4\45b6cc3c8eaec591caf8c59784e77581.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\4\45b6cc3c8eaec591caf8c59784e77581.bin
+      projectPath: Library\ShaderCache\4\45b6cc3c8eaec591caf8c59784e77581.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\4\46f3fc4036c15f8fa5c42ff2eb7bb54e.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\4\46f3fc4036c15f8fa5c42ff2eb7bb54e.bin
+      projectPath: Library\ShaderCache\4\46f3fc4036c15f8fa5c42ff2eb7bb54e.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\4\479be5bc30a400b5740993dc0fd23305.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\4\479be5bc30a400b5740993dc0fd23305.bin
+      projectPath: Library\ShaderCache\4\479be5bc30a400b5740993dc0fd23305.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\4\47e904440a80144e89a346a4d06d08ce.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\4\47e904440a80144e89a346a4d06d08ce.bin
+      projectPath: Library\ShaderCache\4\47e904440a80144e89a346a4d06d08ce.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\4\48d4a74d5e5f98750ec5e483d1aa9911.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\4\48d4a74d5e5f98750ec5e483d1aa9911.bin
+      projectPath: Library\ShaderCache\4\48d4a74d5e5f98750ec5e483d1aa9911.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\4\48daa8330fcc8dccca2ec0352b7d80dc.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\4\48daa8330fcc8dccca2ec0352b7d80dc.bin
+      projectPath: Library\ShaderCache\4\48daa8330fcc8dccca2ec0352b7d80dc.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\4\492548a6b7fa75ee29ae82c06fc70fe7.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\4\492548a6b7fa75ee29ae82c06fc70fe7.bin
+      projectPath: Library\ShaderCache\4\492548a6b7fa75ee29ae82c06fc70fe7.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\4\493341d5afe3b6d713c60e9fff3d97b1.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\4\493341d5afe3b6d713c60e9fff3d97b1.bin
+      projectPath: Library\ShaderCache\4\493341d5afe3b6d713c60e9fff3d97b1.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\4\4955e3e28b617f3bc1a289829a4aa9f8.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\4\4955e3e28b617f3bc1a289829a4aa9f8.bin
+      projectPath: Library\ShaderCache\4\4955e3e28b617f3bc1a289829a4aa9f8.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\4\49a0f3323216d1d834058362b80947f4.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\4\49a0f3323216d1d834058362b80947f4.bin
+      projectPath: Library\ShaderCache\4\49a0f3323216d1d834058362b80947f4.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\4\4b645a20c2cc49adad9d47060ee01940.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\4\4b645a20c2cc49adad9d47060ee01940.bin
+      projectPath: Library\ShaderCache\4\4b645a20c2cc49adad9d47060ee01940.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\4\4c5bec3ba92e067587d956ba7429bcbe.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\4\4c5bec3ba92e067587d956ba7429bcbe.bin
+      projectPath: Library\ShaderCache\4\4c5bec3ba92e067587d956ba7429bcbe.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\4\4dbaa8f1f01dd124d32d5cf5eee10092.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\4\4dbaa8f1f01dd124d32d5cf5eee10092.bin
+      projectPath: Library\ShaderCache\4\4dbaa8f1f01dd124d32d5cf5eee10092.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\4\4e6aaa37f4b1ce4d9ef09cfc97f20245.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\4\4e6aaa37f4b1ce4d9ef09cfc97f20245.bin
+      projectPath: Library\ShaderCache\4\4e6aaa37f4b1ce4d9ef09cfc97f20245.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\4\4fdbfce63a6d827d4246ff4248c0a722.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\4\4fdbfce63a6d827d4246ff4248c0a722.bin
+      projectPath: Library\ShaderCache\4\4fdbfce63a6d827d4246ff4248c0a722.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\5\50700b35cdebc68dc139ae7a678d9834.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\5\50700b35cdebc68dc139ae7a678d9834.bin
+      projectPath: Library\ShaderCache\5\50700b35cdebc68dc139ae7a678d9834.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\5\5177aaddf86f707c38b683fe1253ab5b.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\5\5177aaddf86f707c38b683fe1253ab5b.bin
+      projectPath: Library\ShaderCache\5\5177aaddf86f707c38b683fe1253ab5b.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\5\51d687f799366ed1f4795db8df14f168.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\5\51d687f799366ed1f4795db8df14f168.bin
+      projectPath: Library\ShaderCache\5\51d687f799366ed1f4795db8df14f168.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\5\52890441a56b22e3e05ef9fe8a0bb019.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\5\52890441a56b22e3e05ef9fe8a0bb019.bin
+      projectPath: Library\ShaderCache\5\52890441a56b22e3e05ef9fe8a0bb019.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\5\544bc3231369c3ff6ce6a6876889cce8.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\5\544bc3231369c3ff6ce6a6876889cce8.bin
+      projectPath: Library\ShaderCache\5\544bc3231369c3ff6ce6a6876889cce8.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\5\54bcfcc68385b28448cfef54c0bb87ef.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\5\54bcfcc68385b28448cfef54c0bb87ef.bin
+      projectPath: Library\ShaderCache\5\54bcfcc68385b28448cfef54c0bb87ef.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\5\5599fe7d29537a924395ba877acb9599.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\5\5599fe7d29537a924395ba877acb9599.bin
+      projectPath: Library\ShaderCache\5\5599fe7d29537a924395ba877acb9599.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\5\56865cae132594a503bfdd17edb34988.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\5\56865cae132594a503bfdd17edb34988.bin
+      projectPath: Library\ShaderCache\5\56865cae132594a503bfdd17edb34988.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\5\56e7cc6b806f598de2d8f39f41b9d927.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\5\56e7cc6b806f598de2d8f39f41b9d927.bin
+      projectPath: Library\ShaderCache\5\56e7cc6b806f598de2d8f39f41b9d927.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\5\56eb44b644b5ffb0e2de7817b711d74b.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\5\56eb44b644b5ffb0e2de7817b711d74b.bin
+      projectPath: Library\ShaderCache\5\56eb44b644b5ffb0e2de7817b711d74b.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\5\57e50deb925018a43deb8ad5dd8fdb3b.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\5\57e50deb925018a43deb8ad5dd8fdb3b.bin
+      projectPath: Library\ShaderCache\5\57e50deb925018a43deb8ad5dd8fdb3b.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\5\5856fa6528f2f07738d2d3667966fab5.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\5\5856fa6528f2f07738d2d3667966fab5.bin
+      projectPath: Library\ShaderCache\5\5856fa6528f2f07738d2d3667966fab5.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\5\5a9e100e63e968799142159ada4dd91b.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\5\5a9e100e63e968799142159ada4dd91b.bin
+      projectPath: Library\ShaderCache\5\5a9e100e63e968799142159ada4dd91b.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\5\5b27aafcde3e96fa29d890923a61cc43.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\5\5b27aafcde3e96fa29d890923a61cc43.bin
+      projectPath: Library\ShaderCache\5\5b27aafcde3e96fa29d890923a61cc43.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\5\5bb62b76b335a395de20705809a6c946.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\5\5bb62b76b335a395de20705809a6c946.bin
+      projectPath: Library\ShaderCache\5\5bb62b76b335a395de20705809a6c946.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\5\5c9a0a3ab0e1385a6593a4571b5a28f7.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\5\5c9a0a3ab0e1385a6593a4571b5a28f7.bin
+      projectPath: Library\ShaderCache\5\5c9a0a3ab0e1385a6593a4571b5a28f7.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\5\5d7b34485530bda044bbc9acc3d3e94d.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\5\5d7b34485530bda044bbc9acc3d3e94d.bin
+      projectPath: Library\ShaderCache\5\5d7b34485530bda044bbc9acc3d3e94d.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\5\5d85ad3c623a517b21b6cbe991669194.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\5\5d85ad3c623a517b21b6cbe991669194.bin
+      projectPath: Library\ShaderCache\5\5d85ad3c623a517b21b6cbe991669194.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\5\5ee16785317974bc7fc2cd5a7ac66bd6.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\5\5ee16785317974bc7fc2cd5a7ac66bd6.bin
+      projectPath: Library\ShaderCache\5\5ee16785317974bc7fc2cd5a7ac66bd6.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\5\5f8318b37d35089fe97ff03a899d9c47.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\5\5f8318b37d35089fe97ff03a899d9c47.bin
+      projectPath: Library\ShaderCache\5\5f8318b37d35089fe97ff03a899d9c47.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\5\5f95c765663515515a45a467ef47f1df.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\5\5f95c765663515515a45a467ef47f1df.bin
+      projectPath: Library\ShaderCache\5\5f95c765663515515a45a467ef47f1df.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\5\5fa5a51f2ab27cc48664fbc5daea17c4.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\5\5fa5a51f2ab27cc48664fbc5daea17c4.bin
+      projectPath: Library\ShaderCache\5\5fa5a51f2ab27cc48664fbc5daea17c4.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\6\60a4f8c9768ce6e30ab174e36a3b7c90.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\6\60a4f8c9768ce6e30ab174e36a3b7c90.bin
+      projectPath: Library\ShaderCache\6\60a4f8c9768ce6e30ab174e36a3b7c90.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\6\610c9c1f89605c66c8ec642aff85ed53.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\6\610c9c1f89605c66c8ec642aff85ed53.bin
+      projectPath: Library\ShaderCache\6\610c9c1f89605c66c8ec642aff85ed53.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\6\61362a12740801400cad55f0f7b836f9.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\6\61362a12740801400cad55f0f7b836f9.bin
+      projectPath: Library\ShaderCache\6\61362a12740801400cad55f0f7b836f9.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\6\6d8d95b35e8d448a256234907c09ae0a.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\6\6d8d95b35e8d448a256234907c09ae0a.bin
+      projectPath: Library\ShaderCache\6\6d8d95b35e8d448a256234907c09ae0a.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\6\6e482df111ec0ab01a185d7bb0acce03.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\6\6e482df111ec0ab01a185d7bb0acce03.bin
+      projectPath: Library\ShaderCache\6\6e482df111ec0ab01a185d7bb0acce03.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\6\6efe2d01f86fd9a33eb54670cc7658e9.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\6\6efe2d01f86fd9a33eb54670cc7658e9.bin
+      projectPath: Library\ShaderCache\6\6efe2d01f86fd9a33eb54670cc7658e9.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\7\7015c902a5e8f3bc788f401124389c65.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\7\7015c902a5e8f3bc788f401124389c65.bin
+      projectPath: Library\ShaderCache\7\7015c902a5e8f3bc788f401124389c65.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\7\705bc519d2febde4161d1533c69b3653.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\7\705bc519d2febde4161d1533c69b3653.bin
+      projectPath: Library\ShaderCache\7\705bc519d2febde4161d1533c69b3653.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\7\70e949696f010232fc873d2377c65d7b.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\7\70e949696f010232fc873d2377c65d7b.bin
+      projectPath: Library\ShaderCache\7\70e949696f010232fc873d2377c65d7b.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\7\717e18e3521ea57d0ae6ded77c911a65.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\7\717e18e3521ea57d0ae6ded77c911a65.bin
+      projectPath: Library\ShaderCache\7\717e18e3521ea57d0ae6ded77c911a65.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\7\71ebd52712de32617ad0d1c8110311e4.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\7\71ebd52712de32617ad0d1c8110311e4.bin
+      projectPath: Library\ShaderCache\7\71ebd52712de32617ad0d1c8110311e4.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\7\72ea8d42020d26391c8f2b6ca8b8b666.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\7\72ea8d42020d26391c8f2b6ca8b8b666.bin
+      projectPath: Library\ShaderCache\7\72ea8d42020d26391c8f2b6ca8b8b666.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\7\739443735f851b7e1812ffa4843ebb19.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\7\739443735f851b7e1812ffa4843ebb19.bin
+      projectPath: Library\ShaderCache\7\739443735f851b7e1812ffa4843ebb19.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\7\73fd55ba51036f512efbf8662a0b2cce.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\7\73fd55ba51036f512efbf8662a0b2cce.bin
+      projectPath: Library\ShaderCache\7\73fd55ba51036f512efbf8662a0b2cce.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\7\74c878b21fd72eb13298067fe7e5d0a3.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\7\74c878b21fd72eb13298067fe7e5d0a3.bin
+      projectPath: Library\ShaderCache\7\74c878b21fd72eb13298067fe7e5d0a3.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\7\75295348d07fb254f47a603ab68ac846.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\7\75295348d07fb254f47a603ab68ac846.bin
+      projectPath: Library\ShaderCache\7\75295348d07fb254f47a603ab68ac846.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\7\754d6b386edea331f942c9661be2ecce.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\7\754d6b386edea331f942c9661be2ecce.bin
+      projectPath: Library\ShaderCache\7\754d6b386edea331f942c9661be2ecce.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\7\76326f43f81ed3c9b5b73b1099d2e509.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\7\76326f43f81ed3c9b5b73b1099d2e509.bin
+      projectPath: Library\ShaderCache\7\76326f43f81ed3c9b5b73b1099d2e509.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\7\786c8e11f41b621abf69d05d9ad1dd66.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\7\786c8e11f41b621abf69d05d9ad1dd66.bin
+      projectPath: Library\ShaderCache\7\786c8e11f41b621abf69d05d9ad1dd66.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\7\78c60ac8a56eab12932bfadedfe46d7d.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\7\78c60ac8a56eab12932bfadedfe46d7d.bin
+      projectPath: Library\ShaderCache\7\78c60ac8a56eab12932bfadedfe46d7d.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\7\78e9a9ee03540144e3015aae1fc42821.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\7\78e9a9ee03540144e3015aae1fc42821.bin
+      projectPath: Library\ShaderCache\7\78e9a9ee03540144e3015aae1fc42821.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\7\79036276273537399fdf91a767f38b69.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\7\79036276273537399fdf91a767f38b69.bin
+      projectPath: Library\ShaderCache\7\79036276273537399fdf91a767f38b69.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\7\798099fa6516be567e21228bd35e974b.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\7\798099fa6516be567e21228bd35e974b.bin
+      projectPath: Library\ShaderCache\7\798099fa6516be567e21228bd35e974b.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\7\7af439a091088f31c61f64494a5cae17.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\7\7af439a091088f31c61f64494a5cae17.bin
+      projectPath: Library\ShaderCache\7\7af439a091088f31c61f64494a5cae17.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\7\7cf8a9173f0762ea39de9e20a45e4177.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\7\7cf8a9173f0762ea39de9e20a45e4177.bin
+      projectPath: Library\ShaderCache\7\7cf8a9173f0762ea39de9e20a45e4177.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\7\7e06f2218667850a8e10a4bed4b31d2d.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\7\7e06f2218667850a8e10a4bed4b31d2d.bin
+      projectPath: Library\ShaderCache\7\7e06f2218667850a8e10a4bed4b31d2d.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\7\7e127fdd6719af975fca81e4b32774b0.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\7\7e127fdd6719af975fca81e4b32774b0.bin
+      projectPath: Library\ShaderCache\7\7e127fdd6719af975fca81e4b32774b0.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\7\7e4094eca968913e5dd832a22828687c.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\7\7e4094eca968913e5dd832a22828687c.bin
+      projectPath: Library\ShaderCache\7\7e4094eca968913e5dd832a22828687c.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\7\7f3ec72a626bbb49118d12c918859970.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\7\7f3ec72a626bbb49118d12c918859970.bin
+      projectPath: Library\ShaderCache\7\7f3ec72a626bbb49118d12c918859970.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\8\81ff59e24f8a089ceef9844c886d3028.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\8\81ff59e24f8a089ceef9844c886d3028.bin
+      projectPath: Library\ShaderCache\8\81ff59e24f8a089ceef9844c886d3028.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\8\8425a7e5d9809be1bdef89a38b3bece6.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\8\8425a7e5d9809be1bdef89a38b3bece6.bin
+      projectPath: Library\ShaderCache\8\8425a7e5d9809be1bdef89a38b3bece6.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\8\8502f53510ac084e088c5021d6fd025f.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\8\8502f53510ac084e088c5021d6fd025f.bin
+      projectPath: Library\ShaderCache\8\8502f53510ac084e088c5021d6fd025f.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\8\851f71bb4bc98ab4d8e558b7adc0b7bd.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\8\851f71bb4bc98ab4d8e558b7adc0b7bd.bin
+      projectPath: Library\ShaderCache\8\851f71bb4bc98ab4d8e558b7adc0b7bd.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\8\862ebe78d26d12d5e6742d94d165ed5e.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\8\862ebe78d26d12d5e6742d94d165ed5e.bin
+      projectPath: Library\ShaderCache\8\862ebe78d26d12d5e6742d94d165ed5e.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\8\875de57b450fd8bc8dfb0ecd0dc6b62d.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\8\875de57b450fd8bc8dfb0ecd0dc6b62d.bin
+      projectPath: Library\ShaderCache\8\875de57b450fd8bc8dfb0ecd0dc6b62d.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\8\87ecbe5b45193ae117c6ae61ed5ea4e4.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\8\87ecbe5b45193ae117c6ae61ed5ea4e4.bin
+      projectPath: Library\ShaderCache\8\87ecbe5b45193ae117c6ae61ed5ea4e4.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\8\87f5dca336e8610f5c0c58c8accb1fc9.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\8\87f5dca336e8610f5c0c58c8accb1fc9.bin
+      projectPath: Library\ShaderCache\8\87f5dca336e8610f5c0c58c8accb1fc9.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\8\8915c884f1c8e19b0a547df82b3fed6e.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\8\8915c884f1c8e19b0a547df82b3fed6e.bin
+      projectPath: Library\ShaderCache\8\8915c884f1c8e19b0a547df82b3fed6e.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\8\89855974ee40a9b465a66ddb4ce9947b.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\8\89855974ee40a9b465a66ddb4ce9947b.bin
+      projectPath: Library\ShaderCache\8\89855974ee40a9b465a66ddb4ce9947b.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\8\8a105bb5070930b4470c9d46d4d92685.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\8\8a105bb5070930b4470c9d46d4d92685.bin
+      projectPath: Library\ShaderCache\8\8a105bb5070930b4470c9d46d4d92685.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\8\8ab33697aa2df6f81f96102f9debeec7.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\8\8ab33697aa2df6f81f96102f9debeec7.bin
+      projectPath: Library\ShaderCache\8\8ab33697aa2df6f81f96102f9debeec7.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\8\8c78dd5597919b055e0a48d3dccff32b.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\8\8c78dd5597919b055e0a48d3dccff32b.bin
+      projectPath: Library\ShaderCache\8\8c78dd5597919b055e0a48d3dccff32b.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\9\919551f56dafdd089311e92a65ef1cf9.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\9\919551f56dafdd089311e92a65ef1cf9.bin
+      projectPath: Library\ShaderCache\9\919551f56dafdd089311e92a65ef1cf9.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\9\94cb97a34578d4efdd2e3f60edfd2b16.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\9\94cb97a34578d4efdd2e3f60edfd2b16.bin
+      projectPath: Library\ShaderCache\9\94cb97a34578d4efdd2e3f60edfd2b16.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\9\966f6a71797cc70c9b0d7d0f05e49c9e.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\9\966f6a71797cc70c9b0d7d0f05e49c9e.bin
+      projectPath: Library\ShaderCache\9\966f6a71797cc70c9b0d7d0f05e49c9e.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\9\96b572b9f006b0cbae81523f1fcf5347.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\9\96b572b9f006b0cbae81523f1fcf5347.bin
+      projectPath: Library\ShaderCache\9\96b572b9f006b0cbae81523f1fcf5347.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\9\96f25a54926ed5fadf312f80f2da7df6.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\9\96f25a54926ed5fadf312f80f2da7df6.bin
+      projectPath: Library\ShaderCache\9\96f25a54926ed5fadf312f80f2da7df6.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\9\971ee664ce9f88678421f4352e213044.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\9\971ee664ce9f88678421f4352e213044.bin
+      projectPath: Library\ShaderCache\9\971ee664ce9f88678421f4352e213044.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\9\978b098ccf9f68d55336b280b9735412.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\9\978b098ccf9f68d55336b280b9735412.bin
+      projectPath: Library\ShaderCache\9\978b098ccf9f68d55336b280b9735412.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\9\990242a1e9f6ccb95463d5808d903cde.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\9\990242a1e9f6ccb95463d5808d903cde.bin
+      projectPath: Library\ShaderCache\9\990242a1e9f6ccb95463d5808d903cde.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\9\9ce33f1265963d787429ec8fd5f22f49.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\9\9ce33f1265963d787429ec8fd5f22f49.bin
+      projectPath: Library\ShaderCache\9\9ce33f1265963d787429ec8fd5f22f49.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\9\9e4be64e784a3e9788dd6c9947c72e1e.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\9\9e4be64e784a3e9788dd6c9947c72e1e.bin
+      projectPath: Library\ShaderCache\9\9e4be64e784a3e9788dd6c9947c72e1e.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\9\9e87ac41b4eb4c601053ea92b3ea415f.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\9\9e87ac41b4eb4c601053ea92b3ea415f.bin
+      projectPath: Library\ShaderCache\9\9e87ac41b4eb4c601053ea92b3ea415f.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\9\9f2b0a345da25a8c4817a0497ee83b0a.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\9\9f2b0a345da25a8c4817a0497ee83b0a.bin
+      projectPath: Library\ShaderCache\9\9f2b0a345da25a8c4817a0497ee83b0a.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\a\a12476b85fb1fc8b8a083928f0735be8.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\a\a12476b85fb1fc8b8a083928f0735be8.bin
+      projectPath: Library\ShaderCache\a\a12476b85fb1fc8b8a083928f0735be8.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\a\a30b7ca918e67d0a87b102910a33a24f.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\a\a30b7ca918e67d0a87b102910a33a24f.bin
+      projectPath: Library\ShaderCache\a\a30b7ca918e67d0a87b102910a33a24f.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\a\a38e376a798301e7a86c9e1e2d7b3965.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\a\a38e376a798301e7a86c9e1e2d7b3965.bin
+      projectPath: Library\ShaderCache\a\a38e376a798301e7a86c9e1e2d7b3965.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\a\a4141763b29222588111257222573626.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\a\a4141763b29222588111257222573626.bin
+      projectPath: Library\ShaderCache\a\a4141763b29222588111257222573626.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\a\a5b563f7622171623520d1bd96903478.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\a\a5b563f7622171623520d1bd96903478.bin
+      projectPath: Library\ShaderCache\a\a5b563f7622171623520d1bd96903478.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\a\a6644b8925aadcc537837267468ff471.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\a\a6644b8925aadcc537837267468ff471.bin
+      projectPath: Library\ShaderCache\a\a6644b8925aadcc537837267468ff471.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\a\a77c6757671e1d3f69330491fae09e74.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\a\a77c6757671e1d3f69330491fae09e74.bin
+      projectPath: Library\ShaderCache\a\a77c6757671e1d3f69330491fae09e74.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\a\a7913e62932aa7d5ac4a85c178afb8b6.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\a\a7913e62932aa7d5ac4a85c178afb8b6.bin
+      projectPath: Library\ShaderCache\a\a7913e62932aa7d5ac4a85c178afb8b6.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\a\aa1396bb7f9b8a55706e12de4436b027.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\a\aa1396bb7f9b8a55706e12de4436b027.bin
+      projectPath: Library\ShaderCache\a\aa1396bb7f9b8a55706e12de4436b027.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\a\aba7d0309ff46b4cf5a23c100a026d8a.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\a\aba7d0309ff46b4cf5a23c100a026d8a.bin
+      projectPath: Library\ShaderCache\a\aba7d0309ff46b4cf5a23c100a026d8a.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\a\ac99d59731e296d437df384104306331.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\a\ac99d59731e296d437df384104306331.bin
+      projectPath: Library\ShaderCache\a\ac99d59731e296d437df384104306331.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\a\ad0b206da8ac5ecfee588a9cb4b6bfeb.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\a\ad0b206da8ac5ecfee588a9cb4b6bfeb.bin
+      projectPath: Library\ShaderCache\a\ad0b206da8ac5ecfee588a9cb4b6bfeb.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\a\ad20beb3ca6c41a767cfe091eaf59431.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\a\ad20beb3ca6c41a767cfe091eaf59431.bin
+      projectPath: Library\ShaderCache\a\ad20beb3ca6c41a767cfe091eaf59431.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\a\ad33e13d8578f4532a92ad097c8f9ac3.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\a\ad33e13d8578f4532a92ad097c8f9ac3.bin
+      projectPath: Library\ShaderCache\a\ad33e13d8578f4532a92ad097c8f9ac3.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\a\adce1e59d5a93d3f96b782afb8ff4a3c.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\a\adce1e59d5a93d3f96b782afb8ff4a3c.bin
+      projectPath: Library\ShaderCache\a\adce1e59d5a93d3f96b782afb8ff4a3c.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\a\ae1071d09f7de6be82e2037354c38437.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\a\ae1071d09f7de6be82e2037354c38437.bin
+      projectPath: Library\ShaderCache\a\ae1071d09f7de6be82e2037354c38437.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\a\ae11b7f90c0018f9de565f9a5575dfaa.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\a\ae11b7f90c0018f9de565f9a5575dfaa.bin
+      projectPath: Library\ShaderCache\a\ae11b7f90c0018f9de565f9a5575dfaa.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\a\ae2f4f6e9339a344c68cb016fa608ecb.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\a\ae2f4f6e9339a344c68cb016fa608ecb.bin
+      projectPath: Library\ShaderCache\a\ae2f4f6e9339a344c68cb016fa608ecb.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\a\ae4e06d4f3cb53a0b272ab8837a264e6.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\a\ae4e06d4f3cb53a0b272ab8837a264e6.bin
+      projectPath: Library\ShaderCache\a\ae4e06d4f3cb53a0b272ab8837a264e6.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\b\b003c80c47bdea69bd5ecdcfbd0e83fd.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\b\b003c80c47bdea69bd5ecdcfbd0e83fd.bin
+      projectPath: Library\ShaderCache\b\b003c80c47bdea69bd5ecdcfbd0e83fd.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\b\b24df3d43f06b9088d09cf5159c662e8.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\b\b24df3d43f06b9088d09cf5159c662e8.bin
+      projectPath: Library\ShaderCache\b\b24df3d43f06b9088d09cf5159c662e8.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\b\b25ee7c3889b87b0399973e84c60a262.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\b\b25ee7c3889b87b0399973e84c60a262.bin
+      projectPath: Library\ShaderCache\b\b25ee7c3889b87b0399973e84c60a262.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\b\b3e09ee579cc2ace61bdb5cf73bfec19.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\b\b3e09ee579cc2ace61bdb5cf73bfec19.bin
+      projectPath: Library\ShaderCache\b\b3e09ee579cc2ace61bdb5cf73bfec19.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\b\b4d1fb6105585d7c094f60c11e535eb8.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\b\b4d1fb6105585d7c094f60c11e535eb8.bin
+      projectPath: Library\ShaderCache\b\b4d1fb6105585d7c094f60c11e535eb8.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\b\b5ad45041fb81e9a5920825333a02594.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\b\b5ad45041fb81e9a5920825333a02594.bin
+      projectPath: Library\ShaderCache\b\b5ad45041fb81e9a5920825333a02594.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\ShaderCache\b\b899ef89fbecaaaa183bec68a00599a4.bin
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\ShaderCache\b\b899ef89fbecaaaa183bec68a00599a4.bin
+      projectPath: Library\ShaderCache\b\b899ef89fbecaaaa183bec68a00599a4.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\c7\c7f18e825cee0834db671b091ecf5e80
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\c7\c7f18e825cee0834db671b091ecf5e80
+      projectPath: Library\metadata\c7\c7f18e825cee0834db671b091ecf5e80
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\c7\c7f18e825cee0834db671b091ecf5e80.info
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\c7\c7f18e825cee0834db671b091ecf5e80.info
+      projectPath: Library\metadata\c7\c7f18e825cee0834db671b091ecf5e80.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\ca\cac4feff87d781c40be75a09b13ffd3d
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\ca\cac4feff87d781c40be75a09b13ffd3d
+      projectPath: Library\metadata\ca\cac4feff87d781c40be75a09b13ffd3d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\ca\cac4feff87d781c40be75a09b13ffd3d.info
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\ca\cac4feff87d781c40be75a09b13ffd3d.info
+      projectPath: Library\metadata\ca\cac4feff87d781c40be75a09b13ffd3d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\cc\cc28e3b5b95a9c3479880a16f2a469ed
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\cc\cc28e3b5b95a9c3479880a16f2a469ed
+      projectPath: Library\metadata\cc\cc28e3b5b95a9c3479880a16f2a469ed
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\cc\cc28e3b5b95a9c3479880a16f2a469ed.info
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\cc\cc28e3b5b95a9c3479880a16f2a469ed.info
+      projectPath: Library\metadata\cc\cc28e3b5b95a9c3479880a16f2a469ed.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\d0\d05b96cee66e14240838de167097537a
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\d0\d05b96cee66e14240838de167097537a
+      projectPath: Library\metadata\d0\d05b96cee66e14240838de167097537a
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\d0\d05b96cee66e14240838de167097537a.info
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\d0\d05b96cee66e14240838de167097537a.info
+      projectPath: Library\metadata\d0\d05b96cee66e14240838de167097537a.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\d0\d0614cf86e627824fb5c78730185aa8f
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\d0\d0614cf86e627824fb5c78730185aa8f
+      projectPath: Library\metadata\d0\d0614cf86e627824fb5c78730185aa8f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\d0\d0614cf86e627824fb5c78730185aa8f.info
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\d0\d0614cf86e627824fb5c78730185aa8f.info
+      projectPath: Library\metadata\d0\d0614cf86e627824fb5c78730185aa8f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\d2\d205d313e5855274fa11f9ff25a4b5ab
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\d2\d205d313e5855274fa11f9ff25a4b5ab
+      projectPath: Library\metadata\d2\d205d313e5855274fa11f9ff25a4b5ab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\d2\d205d313e5855274fa11f9ff25a4b5ab.info
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\d2\d205d313e5855274fa11f9ff25a4b5ab.info
+      projectPath: Library\metadata\d2\d205d313e5855274fa11f9ff25a4b5ab.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\d3\d3699b9e601b55a489bdeaed629e17dc
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\d3\d3699b9e601b55a489bdeaed629e17dc
+      projectPath: Library\metadata\d3\d3699b9e601b55a489bdeaed629e17dc
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\d3\d3699b9e601b55a489bdeaed629e17dc.info
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\d3\d3699b9e601b55a489bdeaed629e17dc.info
+      projectPath: Library\metadata\d3\d3699b9e601b55a489bdeaed629e17dc.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\d4\d4637e1290254e84cb78711632d71b36
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\d4\d4637e1290254e84cb78711632d71b36
+      projectPath: Library\metadata\d4\d4637e1290254e84cb78711632d71b36
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\d4\d4637e1290254e84cb78711632d71b36.info
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\d4\d4637e1290254e84cb78711632d71b36.info
+      projectPath: Library\metadata\d4\d4637e1290254e84cb78711632d71b36.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\d4\d4e162374e40f2343a827302da277345
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\d4\d4e162374e40f2343a827302da277345
+      projectPath: Library\metadata\d4\d4e162374e40f2343a827302da277345
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\d4\d4e162374e40f2343a827302da277345.info
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\d4\d4e162374e40f2343a827302da277345.info
+      projectPath: Library\metadata\d4\d4e162374e40f2343a827302da277345.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\d6\d6feb3eb02ab3624fa80f2b9ab9540b8
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\d6\d6feb3eb02ab3624fa80f2b9ab9540b8
+      projectPath: Library\metadata\d6\d6feb3eb02ab3624fa80f2b9ab9540b8
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\d6\d6feb3eb02ab3624fa80f2b9ab9540b8.info
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\d6\d6feb3eb02ab3624fa80f2b9ab9540b8.info
+      projectPath: Library\metadata\d6\d6feb3eb02ab3624fa80f2b9ab9540b8.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0
+      projectPath: Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0.info
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0.info
+      projectPath: Library\metadata\d9\d91035c548f23744c9bfb107348ed1c0.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\db\db9608f243fff624e9c0cc7f3bd71a71
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\db\db9608f243fff624e9c0cc7f3bd71a71
+      projectPath: Library\metadata\db\db9608f243fff624e9c0cc7f3bd71a71
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\db\db9608f243fff624e9c0cc7f3bd71a71.info
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\db\db9608f243fff624e9c0cc7f3bd71a71.info
+      projectPath: Library\metadata\db\db9608f243fff624e9c0cc7f3bd71a71.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
+      projectPath: Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb.info
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb.info
+      projectPath: Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\e1\e1007cd261c84053beb0c3537782908d
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\e1\e1007cd261c84053beb0c3537782908d
+      projectPath: Library\metadata\e1\e1007cd261c84053beb0c3537782908d
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\e1\e1007cd261c84053beb0c3537782908d.info
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\e1\e1007cd261c84053beb0c3537782908d.info
+      projectPath: Library\metadata\e1\e1007cd261c84053beb0c3537782908d.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\e3\e30e32b85e5590c438e5025134328d77
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\e3\e30e32b85e5590c438e5025134328d77
+      projectPath: Library\metadata\e3\e30e32b85e5590c438e5025134328d77
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\e3\e30e32b85e5590c438e5025134328d77.info
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\e3\e30e32b85e5590c438e5025134328d77.info
+      projectPath: Library\metadata\e3\e30e32b85e5590c438e5025134328d77.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\e7\e76837245952cdf43b45b3ef0e2444bb
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\e7\e76837245952cdf43b45b3ef0e2444bb
+      projectPath: Library\metadata\e7\e76837245952cdf43b45b3ef0e2444bb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\e7\e76837245952cdf43b45b3ef0e2444bb.info
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\e7\e76837245952cdf43b45b3ef0e2444bb.info
+      projectPath: Library\metadata\e7\e76837245952cdf43b45b3ef0e2444bb.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\ec\ec217808ef8346d4595b47a004b4adc1
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\ec\ec217808ef8346d4595b47a004b4adc1
+      projectPath: Library\metadata\ec\ec217808ef8346d4595b47a004b4adc1
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\ec\ec217808ef8346d4595b47a004b4adc1.info
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\ec\ec217808ef8346d4595b47a004b4adc1.info
+      projectPath: Library\metadata\ec\ec217808ef8346d4595b47a004b4adc1.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\ee\ee15b45927f74a044a1662684746703c
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\ee\ee15b45927f74a044a1662684746703c
+      projectPath: Library\metadata\ee\ee15b45927f74a044a1662684746703c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\ee\ee15b45927f74a044a1662684746703c.info
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\ee\ee15b45927f74a044a1662684746703c.info
+      projectPath: Library\metadata\ee\ee15b45927f74a044a1662684746703c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+      projectPath: Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8.info
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8.info
+      projectPath: Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\f6\f62100b4d9f70c645a692175bcf9ab92
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\f6\f62100b4d9f70c645a692175bcf9ab92
+      projectPath: Library\metadata\f6\f62100b4d9f70c645a692175bcf9ab92
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\f6\f62100b4d9f70c645a692175bcf9ab92.info
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\f6\f62100b4d9f70c645a692175bcf9ab92.info
+      projectPath: Library\metadata\f6\f62100b4d9f70c645a692175bcf9ab92.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\f6\f684fa4a807a2344ab70a90480ddbaf2
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\f6\f684fa4a807a2344ab70a90480ddbaf2
+      projectPath: Library\metadata\f6\f684fa4a807a2344ab70a90480ddbaf2
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\f6\f684fa4a807a2344ab70a90480ddbaf2.info
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\f6\f684fa4a807a2344ab70a90480ddbaf2.info
+      projectPath: Library\metadata\f6\f684fa4a807a2344ab70a90480ddbaf2.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+      projectPath: Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\f7\f70555f144d8491a825f0804e09c671c.info
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\f7\f70555f144d8491a825f0804e09c671c.info
+      projectPath: Library\metadata\f7\f70555f144d8491a825f0804e09c671c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc
+      projectPath: Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc.info
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc.info
+      projectPath: Library\metadata\f7\f7b54ff4a43d4fcf81b4538b678e0bcc.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\f9\f9d31c1dafd4fab4d9d2282b8a7eb14c
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\f9\f9d31c1dafd4fab4d9d2282b8a7eb14c
+      projectPath: Library\metadata\f9\f9d31c1dafd4fab4d9d2282b8a7eb14c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Udemy ShootEmUP\Library\metadata\f9\f9d31c1dafd4fab4d9d2282b8a7eb14c.info
+      fullPath: C:\Users\nadeg\Documents\unity_repo\Udemy ShootEmUP\Library\metadata\f9\f9d31c1dafd4fab4d9d2282b8a7eb14c.info
+      projectPath: Library\metadata\f9\f9d31c1dafd4fab4d9d2282b8a7eb14c.info
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: f8c6df904bb6c389c89bbc6565d9b088bc918977
+    mergeA: 
+    mergeB: 
+    authorName: nadege Pub
+    authorEmail: nadegepub@gmail.com
+    commitEmail: nadegepub@gmail.com
+    commitName: nadege Pub
+    summary: Initial commit
+    description: Initial commit
+    timeString: 2018-04-26T14:20:53.0000000+00:00
+    commitTimeString: 2018-04-26T14:20:53.0000000+00:00
+    changes:
+    - path: README.md
+      fullPath: C:\Users\nadeg\Documents\unity_repo\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      status: 4
+      staged: 0
